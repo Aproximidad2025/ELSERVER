@@ -976,3 +976,79 @@
 [03:08:57] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 540 times.
 
 [03:08:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:09:47] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 545 times.
+
+[03:09:47] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 545 times.
+
+[03:10:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:10:37] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 550 times.
+
+[03:10:37] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 550 times.
+
+[03:11:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:11:27] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 555 times.
+
+[03:11:27] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 555 times.
+
+[03:11:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:12:17] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 560 times.
+
+[03:12:17] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 560 times.
+
+[03:12:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:07] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 565 times.
+
+[03:13:07] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 565 times.
+
+[03:13:27] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:13:57] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 570 times.
+
+[03:13:57] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 570 times.
+
+[03:14:12] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:14:47] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 575 times.
+
+[03:14:47] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 575 times.
+
+[03:14:57] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:15:37] [Server thread/DEBUG] [FML]: The world 56589a89 (world) may have leaked: seen 580 times.
+
+[03:15:37] [Server thread/DEBUG] [FML]: The world 391a084b (world) may have leaked: seen 580 times.
+
+[03:15:42] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod minecraft
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod minecraft
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod mcp
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod mcp
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Coder Pack took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod FML
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod FML
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Forge Mod Loader took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppingEvent to mod forge
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppingEvent to mod forge
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopping - Minecraft Forge took 0.000s
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopping took 0.001s
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:16:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[03:16:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod minecraft
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod minecraft
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod mcp
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod mcp
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Coder Pack took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod FML
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod FML
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Forge Mod Loader took 0.000s
+[03:16:10] [Server thread/TRACE] [FML]: Sending event FMLServerStoppedEvent to mod forge
+[03:16:10] [Server thread/TRACE] [FML]: Sent event FMLServerStoppedEvent to mod forge
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Step: ServerStopped - Minecraft Forge took 0.000s
+[03:16:10] [Server thread/DEBUG] [FML]: Bar Finished: ServerStopped took 0.001s
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

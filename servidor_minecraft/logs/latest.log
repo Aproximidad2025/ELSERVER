@@ -74,3 +74,11 @@
 [01:38:57] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:38:57] [Server thread/INFO] [FML]: Unloading dimension 1
 [01:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:16:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
