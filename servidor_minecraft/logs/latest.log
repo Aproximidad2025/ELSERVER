@@ -1,205 +1,205 @@
-[12:16:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[12:16:39] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[12:16:39] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[12:16:39] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[12:16:39] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[12:16:39] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[12:16:39] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[12:16:39] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[12:16:39] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
-[12:16:39] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[12:16:39] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[12:16:39] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[12:16:39] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[12:16:39] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[12:16:39] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
-[12:16:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[12:16:39] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
-[12:16:39] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
-[12:16:39] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[12:16:39] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[12:16:39] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[12:16:39] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[12:16:39] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[12:16:39] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[12:16:39] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[12:16:39] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[12:16:39] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[12:16:41] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6569dded
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[12:16:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[12:16:41] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[12:16:41] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[12:16:41] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[12:16:41] [main/INFO] [Thicc ASM]: Transforming Entity
-[12:16:41] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[12:16:41] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[12:16:41] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:41] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
-[12:16:42] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[12:16:42] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[12:16:42] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[12:16:42] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:42] [main/INFO] [Thicc ASM]: Transforming Entity
-[12:16:42] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[12:16:42] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[12:16:42] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:42] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[12:16:42] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[12:16:42] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:42] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[12:16:42] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[12:16:42] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:42] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[12:16:42] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[12:16:42] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[12:16:43] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[12:16:43] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[12:16:43] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[12:16:43] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:43] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[12:16:43] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[12:16:43] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:43] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[12:16:43] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[12:16:43] [main/INFO] [Thicc ASM]: Patch result: Success
-[12:16:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[12:16:45] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[12:16:45] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[12:16:45] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[12:16:45] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[12:16:45] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[12:16:46] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
-[12:16:46] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[12:16:47] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
-[12:16:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[12:16:47] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
-[12:16:47] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[12:16:47] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[12:16:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mca, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, tombstone, toughasnails, travelersbackpack, traverse, zombieawareness, orelib] at CLIENT
-[12:16:47] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mca, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, tombstone, toughasnails, travelersbackpack, traverse, zombieawareness, orelib] at SERVER
-[12:16:48] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
-[12:16:49] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[12:16:49] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[12:16:49] [Server thread/INFO] [FML]: Found 1540 ObjectHolder annotations
-[12:16:49] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[12:16:49] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[12:16:50] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[12:16:50] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[12:16:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[12:16:51] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:51] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:51] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
-[12:16:51] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[12:16:51] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[12:16:51] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[12:16:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[12:16:52] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[12:16:52] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
-[12:16:53] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
-[12:16:53] [Server thread/INFO] [mca]: Loaded 1 supporters.
-[12:16:53] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[12:16:53] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[12:16:53] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[12:16:53] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[12:16:53] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[12:16:53] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[12:16:53] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[12:16:53] [Server thread/INFO] [Chisel]: Loading blocks...
-[12:16:53] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[12:16:53] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[12:16:53] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[12:16:54] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
-[12:16:54] [Server thread/INFO] [Chisel]: Loading Tile Entities...
-[12:16:54] [Server thread/INFO] [Chisel]: Tile Entities loaded.
-[12:16:54] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:54] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:54] [Server thread/INFO] [Chisel]: Loading items...
-[12:16:54] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[12:16:54] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[12:16:54] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[12:16:54] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
-[12:16:54] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[12:16:54] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[12:16:54] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[12:16:54] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[12:16:54] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:54] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:54] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[12:16:55] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:55] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:55] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:55] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:55] [Server thread/INFO] [FML]: Injecting itemstacks
-[12:16:55] [Server thread/INFO] [FML]: Itemstack injection complete
-[12:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[12:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[12:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[12:16:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[12:16:55] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[12:16:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:16:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[12:16:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:16:55] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:16:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[20:47:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:47:10] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[20:47:10] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:47:10] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:47:10] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:47:10] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:47:10] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[20:47:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:47:10] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[20:47:10] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[20:47:10] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[20:47:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[20:47:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:47:10] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:47:10] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
+[20:47:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
+[20:47:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[20:47:10] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
+[20:47:10] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[20:47:10] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[20:47:10] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[20:47:10] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[20:47:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[20:47:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[20:47:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:47:10] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[20:47:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[20:47:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[20:47:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:47:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[20:47:12] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4917d36b
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:47:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:47:12] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:47:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:47:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[20:47:12] [main/INFO] [Thicc ASM]: Transforming Entity
+[20:47:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[20:47:12] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[20:47:12] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:12] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[20:47:12] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[20:47:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[20:47:12] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[20:47:12] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:13] [main/INFO] [Thicc ASM]: Transforming Entity
+[20:47:13] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[20:47:13] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[20:47:13] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:13] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[20:47:13] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[20:47:13] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:13] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[20:47:13] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[20:47:13] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:13] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:47:13] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[20:47:13] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[20:47:14] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[20:47:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[20:47:14] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[20:47:14] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[20:47:14] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[20:47:14] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[20:47:14] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[20:47:14] [main/INFO] [Thicc ASM]: Patch result: Success
+[20:47:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:47:15] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:47:15] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:47:16] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:47:16] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:47:16] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[20:47:16] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[20:47:17] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[20:47:17] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[20:47:18] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
+[20:47:18] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[20:47:18] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
+[20:47:18] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:47:18] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:47:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at CLIENT
+[20:47:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at SERVER
+[20:47:19] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[20:47:20] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[20:47:20] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:47:21] [Server thread/INFO] [FML]: Found 1525 ObjectHolder annotations
+[20:47:21] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:47:21] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:47:21] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:47:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:47:21] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[20:47:21] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[20:47:21] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[20:47:22] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:22] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:22] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
+[20:47:22] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[20:47:22] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[20:47:22] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[20:47:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[20:47:22] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[20:47:23] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[20:47:23] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[20:47:23] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[20:47:23] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[20:47:23] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
+[20:47:23] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[20:47:23] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[20:47:23] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[20:47:23] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[20:47:23] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[20:47:24] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[20:47:24] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[20:47:24] [Server thread/INFO] [Chisel]: Loading blocks...
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[20:47:24] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[20:47:24] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[20:47:24] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:24] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:24] [Server thread/INFO] [Chisel]: Loading items...
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[20:47:24] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[20:47:24] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[20:47:25] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[20:47:25] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[20:47:25] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[20:47:25] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:25] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:25] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[20:47:25] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[20:47:25] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:25] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:25] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:25] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:25] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:47:25] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:47:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[20:47:25] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:47:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:47:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[20:47:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:47:25] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:47:25] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -220,7 +220,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[12:16:55] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[20:47:25] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -235,31 +235,39 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[12:16:55] [Server thread/INFO] [Chisel]: Loading recipes...
-[12:16:55] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[12:16:55] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[12:16:55] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[12:16:55] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
-[12:16:55] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
-[12:16:55] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[12:16:55] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:55] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[12:16:55] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[12:16:56] [Server thread/INFO] [FML]: Injecting itemstacks
-[12:16:56] [Server thread/INFO] [FML]: Itemstack injection complete
-[12:16:56] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[12:16:56] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[12:16:56] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
-[12:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[12:16:56] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[12:16:57] [Server thread/INFO] [FML]: Applying holder lookups
-[12:16:57] [Server thread/INFO] [FML]: Holder lookups applied
-[12:16:57] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@33c0e95a)
-[12:16:57] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+[20:47:26] [Server thread/INFO] [Chisel]: Loading recipes...
+[20:47:26] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[20:47:26] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[20:47:26] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[20:47:26] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[20:47:26] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[20:47:26] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[20:47:26] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[20:47:26] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[20:47:26] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:26] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:26] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[20:47:26] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[20:47:26] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[20:47:26] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
+[20:47:26] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
+[20:47:26] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[20:47:26] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[20:47:26] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[20:47:26] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:47:26] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:47:26] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[20:47:26] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[20:47:26] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
+[20:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:47:26] [Server thread/INFO] [FML.ModTracker]: This world was saved with mod forge version 14.23.5.2859 and it is now at version 14.23.5.2860, things may not work well
+[20:47:26] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod ctm which appears to be missing, things may not work well
+[20:47:26] [Server thread/ERROR] [FML.ModTracker]: This world was saved with mod chunkanimator which appears to be missing, things may not work well
+[20:47:26] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:47:27] [Server thread/INFO] [FML]: Applying holder lookups
+[20:47:27] [Server thread/INFO] [FML]: Holder lookups applied
+[20:47:27] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@e794677)
+[20:47:27] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -283,7 +291,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[12:16:57] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+[20:47:27] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -311,430 +319,49 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[12:16:57] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 928 advancements
-[12:16:57] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[12:16:57] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@33c0e95a)
-[12:16:57] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[12:16:57] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[12:16:57] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@33c0e95a)
-[12:16:57] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[12:16:57] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@33c0e95a)
-[12:16:57] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
-[12:16:57] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[12:16:58] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
-[12:16:58] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 74%
-[12:16:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.243s)! For help, type "help" or "?"
-[12:16:59] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[12:16:59] [Server thread/INFO] [FML]: Unloading dimension 1
-[12:16:59] [Server thread/INFO] [FML]: Unloading dimension -1
-[12:16:59] [Server thread/INFO] [FML]: Unloading dimension 111
-[12:17:12] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[12:17:12] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[12:17:12] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[12:17:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[12:17:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:33835] logged in with entity id 323 at (248.90005608787033, 75.0, 225.3212970861152)
-[12:17:13] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[12:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[12:17:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Aproximidad
-[12:18:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Creative Mode]
-[12:18:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [24, 7] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
-[12:18:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:18:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [24, 6] in dimension 0 (overworld) while populating chunk [25, 8], causing cascading worldgen lag.
-[12:18:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:18:29] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [25, 10] in dimension 0 (overworld) while populating chunk [25, 9], causing cascading worldgen lag.
-[12:18:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:09] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: UndergroundShelter.tml
-[12:23:19] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, 30] in dimension 0 (overworld) while populating chunk [7, 31], causing cascading worldgen lag.
-[12:23:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:19] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, 31] in dimension 0 (overworld) while populating chunk [7, 31], causing cascading worldgen lag.
-[12:23:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:19] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [5, 30] in dimension 0 (overworld) while populating chunk [6, 31], causing cascading worldgen lag.
-[12:23:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:19] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [5, 31] in dimension 0 (overworld) while populating chunk [6, 31], causing cascading worldgen lag.
-[12:23:19] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, 12] in dimension 0 (overworld) while populating chunk [0, 14], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, 13] in dimension 0 (overworld) while populating chunk [0, 14], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 10] in dimension 0 (overworld) while populating chunk [-2, 13], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 11] in dimension 0 (overworld) while populating chunk [-2, 13], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 12] in dimension 0 (overworld) while populating chunk [-2, 13], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, 11] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, 13] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, 12] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 11] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 12] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-9, 11] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-9, 12] in dimension 0 (overworld) while populating chunk [-5, 12], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 13] in dimension 0 (overworld) while populating chunk [-2, 13], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, 14] in dimension 0 (overworld) while populating chunk [0, 14], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, 14] in dimension 0 (overworld) while populating chunk [0, 14], causing cascading worldgen lag.
-[12:23:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, 19] in dimension 0 (overworld) while populating chunk [-1, 19], causing cascading worldgen lag.
-[12:23:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:30] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:23:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-4, 25] in dimension 0 (overworld) while populating chunk [-3, 25], causing cascading worldgen lag.
-[12:23:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, 23] in dimension 0 (overworld) while populating chunk [-4, 25], causing cascading worldgen lag.
-[12:23:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 23] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 24] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 25] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 26] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 22] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 21] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 22] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, 22] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, 21] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, 21] in dimension 0 (overworld) while populating chunk [-4, 24], causing cascading worldgen lag.
-[12:23:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:38] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [-7, 12] in dimension 0 (overworld) while populating chunk [-8, 11], causing cascading worldgen lag.
-[12:23:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:38] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [-8, 12] in dimension 0 (overworld) while populating chunk [-8, 11], causing cascading worldgen lag.
-[12:23:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:38] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:23:39] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:23:39] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:23:45] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, 3] in dimension 0 (overworld) while populating chunk [-15, 3], causing cascading worldgen lag.
-[12:23:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, 8] in dimension 0 (overworld) while populating chunk [-17, 9], causing cascading worldgen lag.
-[12:23:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -1] in dimension 0 (overworld) while populating chunk [-16, -1], causing cascading worldgen lag.
-[12:23:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-18, -2] in dimension 0 (overworld) while populating chunk [-16, -1], causing cascading worldgen lag.
-[12:23:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-16, -2] in dimension 0 (overworld) while populating chunk [-16, -1], causing cascading worldgen lag.
-[12:23:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-17, -2] in dimension 0 (overworld) while populating chunk [-16, -1], causing cascading worldgen lag.
-[12:23:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:23:50] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:23:51] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-11, -3] in dimension 0 (overworld) while populating chunk [-10, -3], causing cascading worldgen lag.
-[12:23:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-8, -5] in dimension 0 (overworld) while populating chunk [-7, -5], causing cascading worldgen lag.
-[12:23:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-9, -5] in dimension 0 (overworld) while populating chunk [-7, -5], causing cascading worldgen lag.
-[12:23:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:23:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [0, -6] in dimension 0 (overworld) while populating chunk [1, -5], causing cascading worldgen lag.
-[12:23:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:28:08] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:28:11] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:28:23] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:28:26] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:28:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:28:56] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [15, -8] in dimension 0 (overworld) while populating chunk [15, -7], causing cascading worldgen lag.
-[12:28:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:00] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:29:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, -15] in dimension 0 (overworld) while populating chunk [7, -15], causing cascading worldgen lag.
-[12:29:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [6, -16] in dimension 0 (overworld) while populating chunk [7, -15], causing cascading worldgen lag.
-[12:29:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [7, -16] in dimension 0 (overworld) while populating chunk [7, -15], causing cascading worldgen lag.
-[12:29:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [2, -15] in dimension 0 (overworld) while populating chunk [3, -15], causing cascading worldgen lag.
-[12:29:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:07] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [2, -16] in dimension 0 (overworld) while populating chunk [3, -15], causing cascading worldgen lag.
-[12:29:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [10, -23] in dimension 0 (overworld) while populating chunk [10, -22], causing cascading worldgen lag.
-[12:29:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:29:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:29:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [21, -21] in dimension 0 (overworld) while populating chunk [21, -20], causing cascading worldgen lag.
-[12:29:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:30:40] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [7, -25] in dimension 0 (overworld) while populating chunk [9, -23], causing cascading worldgen lag.
-[12:30:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:30:40] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [8, -23] in dimension 0 (overworld) while populating chunk [9, -23], causing cascading worldgen lag.
-[12:30:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:30:40] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [7, -23] in dimension 0 (overworld) while populating chunk [9, -23], causing cascading worldgen lag.
-[12:30:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:30:40] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [7, -24] in dimension 0 (overworld) while populating chunk [9, -23], causing cascading worldgen lag.
-[12:30:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:35:19] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[12:35:55] [Server thread/INFO] [mca]: Villager death: Whit. Caused by: Zombie. UUID: d3483969-4a8c-4afc-ba9a-1b2875b9b701
-[12:36:08] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[12:36:10] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[12:36:13] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[12:36:45] [Server thread/INFO] [mca]: Villager death: Bryant. Caused by: Deviantive Form. UUID: be6ba23f-9596-4f96-adec-92f71598ab59
-[12:37:21] [Server thread/INFO] [mca]: Villager death: Austin. Caused by: entity.cgm.projectile.name. UUID: 7010872a-8438-42b4-aa33-b5556fe77fb2
-[12:37:26] [Server thread/INFO] [mca]: Villager death: Sasha. Caused by: entity.cgm.projectile.name. UUID: 32dfa33f-4a16-4eec-b021-f22b08e29a8a
-[12:40:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Stone Age]
-[12:43:34] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:43:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-22, 12] in dimension 0 (overworld) while populating chunk [-21, 12], causing cascading worldgen lag.
-[12:43:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-23, 7] in dimension 0 (overworld) while populating chunk [-22, 7], causing cascading worldgen lag.
-[12:43:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:36] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[12:43:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-24, 3] in dimension 0 (overworld) while populating chunk [-23, 3], causing cascading worldgen lag.
-[12:43:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:37] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[12:43:38] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:43:38] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [minecraft:preserveBlock] in Ruin template: BuriedChest.tml
-[12:43:38] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[12:43:38] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[12:43:38] [Server thread/WARN] [mca]: No skin found for profession: `mca:bandit`. A random skin will be generated.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 11] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 12] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 13] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-25, 14] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 14] in dimension 0 (overworld) while populating chunk [-25, 13], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-31, -3] in dimension 0 (overworld) while populating chunk [-27, 0], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-31, -2] in dimension 0 (overworld) while populating chunk [-27, 0], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:38] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, 1] in dimension 0 (overworld) while populating chunk [-27, 2], causing cascading worldgen lag.
-[12:43:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:39] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, 2] in dimension 0 (overworld) while populating chunk [-27, 2], causing cascading worldgen lag.
-[12:43:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:42] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:43:48] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-31, -7] in dimension 0 (overworld) while populating chunk [-30, -6], causing cascading worldgen lag.
-[12:43:48] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -10] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -9] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -8] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -7] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -6] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, -5] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -10] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -9] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -8] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-33, -7] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -7] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-33, -6] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -6] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-33, -5] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:43:49] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-34, -5] in dimension 0 (overworld) while populating chunk [-32, -7], causing cascading worldgen lag.
-[12:43:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:44:21] [Server thread/INFO] [mca]: Villager death: Deshawn. Caused by: Terence. UUID: b5c7aa9e-afef-4dd0-9c30-24c019dc82ab
-[12:44:33] [Server thread/INFO] [mca]: Villager death: Emmanuel. Caused by: Terence. UUID: a025a8a7-7a71-4f11-a50c-503ab927d306
-[12:45:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, -10] in dimension 0 (overworld) while populating chunk [-5, -9], causing cascading worldgen lag.
-[12:45:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:45:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-5, -10] in dimension 0 (overworld) while populating chunk [-5, -9], causing cascading worldgen lag.
-[12:45:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:45:49] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[12:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[12:46:03] [Server thread/INFO] [tombstone]: The death event of the player Aproximidad was cancelled by another mod
-[12:46:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Killed Aproximidad]
-[12:46:03] [Server thread/INFO] [tombstone]: Aproximidad has successfully been saved
-[12:46:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad fell out of the world
-[12:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Knowledge of Death]
-[12:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has reached the goal [Here They Come]
-[12:46:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [21, 0] in dimension 0 (overworld) while populating chunk [22, 1], causing cascading worldgen lag.
-[12:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[12:46:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[12:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[12:47:00] [Server thread/INFO] [FML]: Unloading dimension 0
-[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:47:27] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 791 advancements
+[20:47:28] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[20:47:28] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@e794677)
+[20:47:28] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[20:47:28] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[20:47:28] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@e794677)
+[20:47:28] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[20:47:28] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@e794677)
+[20:47:28] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[20:47:28] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:47:28] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[20:47:29] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 45%
+[20:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.730s)! For help, type "help" or "?"
+[20:47:29] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20:47:29] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 24454
+[20:47:29] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[20:47:30] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:47:30] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:47:30] [Server thread/INFO] [FML]: Unloading dimension 111
+[20:48:15] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 1433
+[20:48:49] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[20:48:49] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[20:48:49] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
+[20:48:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:48:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:36301] logged in with entity id 725 at (-77.5, 80.01202564550229, 261.5)
+[20:48:51] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
+[20:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
+[20:48:53] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
+[20:48:53] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
+[20:50:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Creative Mode]
+[20:50:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Adventure Mode]
+[20:50:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Creative Mode]
+[20:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set game difficulty to Hard]
+[20:52:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set the time to 1000]
+[20:52:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Adventure Mode]
+[20:52:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
+[20:52:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
+[20:52:56] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
+[20:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[20:53:06] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[20:53:07] [Server thread/INFO] [FML]: Unloading dimension 0
+[20:53:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[20:53:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[20:53:07] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
