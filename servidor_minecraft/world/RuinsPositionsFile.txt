@@ -16,6 +16,10 @@
 4 73 108 11 108 115 Tubes.tml
 11 71 25 12 73 26 BuriedChest.tml
 21 65 -86 44 101 -63 Reservoir1.tml
+44 65 -268 58 72 -260 ThrownHouse2.tml
 111 75 481 118 91 513 RotaryExcavator.tml
+284 68 -121 303 85 -109 Airfield.tml
+325 46 -346 342 50 -341 Ship.tml
+376 48 -161 380 50 -157 OceanEmeraldOreOutcrop.tml
 404 63 213 411 79 221 MicroHPP.tml
 406 68 337 412 75 343 UndergroundShelter.tml
