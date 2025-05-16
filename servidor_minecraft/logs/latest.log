@@ -728,3 +728,13 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [12:46:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has reached the goal [Here They Come]
 [12:46:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [21, 0] in dimension 0 (overworld) while populating chunk [22, 1], causing cascading worldgen lag.
 [12:46:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[12:46:54] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
+[12:46:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
+[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[12:47:00] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[12:47:00] [Server thread/INFO] [FML]: Unloading dimension 0
+[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[12:47:00] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds

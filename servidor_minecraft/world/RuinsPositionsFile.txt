@@ -22,6 +22,7 @@
 111 75 481 118 91 513 RotaryExcavator.tml
 284 68 -121 303 85 -109 Airfield.tml
 325 46 -346 342 50 -341 Ship.tml
+352 31 9 361 42 45 Ship2.tml
 376 48 -161 380 50 -157 OceanEmeraldOreOutcrop.tml
 404 63 213 411 79 221 MicroHPP.tml
 406 68 337 412 75 343 UndergroundShelter.tml

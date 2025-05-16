@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "tombstone:tutorial/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 12:46:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2025-05-16 12:40:53 +0000"
@@ -310,6 +316,12 @@
   "biomesoplenty:recipes/transportation/boat_jacaranda": {
     "criteria": {
       "entered_water": "2025-05-16 12:31:53 +0000"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2025-05-16 12:46:22 +0000"
     },
     "done": true
   },
