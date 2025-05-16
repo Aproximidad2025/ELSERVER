@@ -9,6 +9,8 @@
 # It should also prevent Ruins re-spawning under any circumstances. Areas registered in here block any overlapping new Ruins.
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
+-447 67 30 -395 79 52 UndergroundDungeon.tml
+-391 73 124 -390 75 125 BuriedChest.tml
 -261 66 -13 -243 99 -2 SpearStatue.tml
 -114 64 285 -113 66 286 BuriedChest.tml
 -77 67 189 -56 122 210 PowerLine.tml
