@@ -1,84 +1,752 @@
-[01:38:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[01:38:42] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[01:38:42] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[01:38:42] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[01:38:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[01:38:42] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:38:43] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[01:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[01:38:43] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[01:38:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:38:44] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[01:38:44] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[01:38:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[01:38:46] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[01:38:46] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[01:38:47] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[01:38:47] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[01:38:47] [Server thread/INFO] [FML]: Config directory created successfully
-[01:38:47] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[01:38:47] [Server thread/INFO] [FML]: Forge Mod Loader has identified 4 mods to load
-[01:38:47] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[01:38:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
-[01:38:48] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
-[01:38:48] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[01:38:48] [Server thread/INFO] [FML]: Found 1168 ObjectHolder annotations
-[01:38:48] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[01:38:48] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[01:38:48] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[01:38:48] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[01:38:48] [Server thread/INFO] [FML]: Applying holder lookups
-[01:38:48] [Server thread/INFO] [FML]: Holder lookups applied
-[01:38:48] [Server thread/INFO] [FML]: Applying holder lookups
-[01:38:48] [Server thread/INFO] [FML]: Holder lookups applied
-[01:38:48] [Server thread/INFO] [FML]: Applying holder lookups
-[01:38:48] [Server thread/INFO] [FML]: Holder lookups applied
-[01:38:48] [Server thread/INFO] [FML]: Applying holder lookups
-[01:38:48] [Server thread/INFO] [FML]: Holder lookups applied
-[01:38:48] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:38:48] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[01:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[01:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[01:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[01:38:48] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[01:38:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:38:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[01:38:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:38:48] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:38:48] [Server thread/INFO] [FML]: Applying holder lookups
-[01:38:48] [Server thread/INFO] [FML]: Holder lookups applied
-[01:38:48] [Server thread/INFO] [FML]: Injecting itemstacks
-[01:38:48] [Server thread/INFO] [FML]: Itemstack injection complete
-[01:38:48] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 4 mods
-[01:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[01:38:49] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@7e3821ed)
-[01:38:49] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[01:38:49] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 488 advancements
-[01:38:49] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e3821ed)
-[01:38:49] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@7e3821ed)
-[01:38:49] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[01:38:50] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 8%
-[01:38:51] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 17%
-[01:38:52] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 29%
-[01:38:53] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 44%
-[01:38:54] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 56%
-[01:38:55] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 70%
-[01:38:56] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 84%
-[01:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (8.782s)! For help, type "help" or "?"
-[01:38:57] [Server thread/INFO] [FML]: Unloading dimension -1
-[01:38:57] [Server thread/INFO] [FML]: Unloading dimension 1
-[01:38:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
-[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[03:16:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[03:16:10] [Server thread/INFO] [FML]: Unloading dimension 0
-[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[03:16:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:17:00] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:17:00] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:17:00] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[03:17:00] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[03:17:00] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[03:17:01] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:17:01] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:17:01] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:17:01] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[03:17:01] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:17:01] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[03:17:01] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[03:17:01] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[03:17:01] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[03:17:01] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[03:17:01] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[03:17:01] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
+[03:17:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:17:01] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[03:17:01] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
+[03:17:01] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[03:17:01] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[03:17:01] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[03:17:01] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[03:17:01] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[03:17:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:17:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:17:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[03:17:01] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[03:17:01] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[03:17:01] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[03:17:01] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[03:17:02] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@6569dded
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[03:17:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:17:02] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[03:17:02] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[03:17:02] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[03:17:03] [main/INFO] [Thicc ASM]: Transforming Entity
+[03:17:03] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[03:17:03] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[03:17:03] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:03] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[03:17:03] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[03:17:03] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[03:17:03] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[03:17:03] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:03] [main/INFO] [Thicc ASM]: Transforming Entity
+[03:17:03] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[03:17:03] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[03:17:03] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:03] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[03:17:03] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[03:17:03] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:03] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[03:17:03] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[03:17:03] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:03] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[03:17:03] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[03:17:03] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[03:17:05] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[03:17:05] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[03:17:05] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[03:17:05] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:05] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[03:17:05] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[03:17:05] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:05] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[03:17:05] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[03:17:05] [main/INFO] [Thicc ASM]: Patch result: Success
+[03:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[03:17:06] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[03:17:06] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[03:17:06] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[03:17:07] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[03:17:07] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[03:17:07] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[03:17:07] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[03:17:08] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[03:17:08] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[03:17:08] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
+[03:17:08] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[03:17:08] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[03:17:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mca, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, tombstone, toughasnails, travelersbackpack, traverse, zombieawareness, orelib] at CLIENT
+[03:17:09] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mca, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, tombstone, toughasnails, travelersbackpack, traverse, zombieawareness, orelib] at SERVER
+[03:17:09] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[03:17:10] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[03:17:10] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[03:17:11] [Server thread/INFO] [FML]: Found 1540 ObjectHolder annotations
+[03:17:11] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[03:17:11] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[03:17:11] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[03:17:11] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[03:17:11] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[03:17:11] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[03:17:11] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[03:17:11] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[03:17:12] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[03:17:12] [Forge Version Check/INFO] [forge.VersionCheck]: [tombstone] Found status: UP_TO_DATE Target: null
+[03:17:12] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[03:17:12] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[03:17:12] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:12] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:12] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
+[03:17:12] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/ERROR] [blockartistry.lib]: Unable to parse configuration
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: java.lang.NullPointerException
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:186)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:239)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:111)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.lib.ConfigProcessor.process(ConfigProcessor.java:106)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModOptions.load(ModOptions.java:742)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at org.orecruncher.dsurround.ModBase.preInit(ModBase.java:154)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:99)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:125)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[03:17:12] [Server thread/INFO] [STDERR]: [org.orecruncher.lib.logging.ModLog:error:109]: 	at java.lang.Thread.run(Thread.java:750)
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[03:17:12] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[03:17:12] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[03:17:13] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[03:17:13] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[03:17:13] [Server thread/INFO] [lostcities]: Upgrading Lost Cities config from 0 to 7!
+[03:17:14] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/latest
+[03:17:14] [Server thread/ERROR] [mca]: Failed to GET from: https://minecraftcomesalive.com/api/supporters
+[03:17:14] [Server thread/INFO] [mca]: Loaded 1 supporters.
+[03:17:14] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[03:17:14] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[03:17:14] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[03:17:14] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[03:17:14] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[03:17:14] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[03:17:14] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[03:17:15] [Server thread/INFO] [Chisel]: Loading blocks...
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[03:17:15] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[03:17:15] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[03:17:15] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:15] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:15] [Server thread/INFO] [Chisel]: Loading items...
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[03:17:15] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[03:17:15] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[03:17:15] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[03:17:15] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[03:17:15] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[03:17:16] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:16] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:16] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[03:17:16] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[03:17:16] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:16] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:16] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:16] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:16] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:17:16] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[03:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[03:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[03:17:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[03:17:16] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[03:17:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:17:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[03:17:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:17:16] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:17:16] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:204) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$getIngredient$0(CraftingHelper.java:152) ~[CraftingHelper.class:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:150) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:481) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[03:17:16] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[03:17:17] [Server thread/INFO] [Chisel]: Loading recipes...
+[03:17:17] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[03:17:17] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[03:17:17] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[03:17:17] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[03:17:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[03:17:17] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[03:17:17] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[03:17:17] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[03:17:17] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:17] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:17] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[03:17:17] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[03:17:17] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[03:17:17] [Server thread/INFO] [FML]: Injecting itemstacks
+[03:17:17] [Server thread/INFO] [FML]: Itemstack injection complete
+[03:17:17] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[03:17:17] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[03:17:17] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
+[03:17:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[03:17:17] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[03:17:18] [Server thread/INFO] [FML]: Applying holder lookups
+[03:17:18] [Server thread/INFO] [FML]: Holder lookups applied
+[03:17:18] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@50578786)
+[03:17:18] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_193839_a(SourceFile:532) ~[rc.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192777_a(AdvancementManager.java:184) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:68) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[03:17:18] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
+	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[Gson.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[TreeTypeAdapter$GsonContextImpl.class:?]
+	at net.minecraft.util.JsonUtils.func_188179_a(SourceFile:439) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188177_a(SourceFile:455) ~[rc.class:?]
+	at net.minecraft.advancements.Advancement$Builder.func_192059_a(SourceFile:203) ~[i$a.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:50) ~[ns$1.class:?]
+	at net.minecraft.advancements.AdvancementManager$1.deserialize(AdvancementManager.java:46) ~[ns$1.class:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[TreeTypeAdapter.class:?]
+	at net.minecraft.util.JsonUtils.func_188173_a(SourceFile:492) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188176_a(SourceFile:517) ~[rc.class:?]
+	at net.minecraft.util.JsonUtils.func_188178_a(SourceFile:537) ~[rc.class:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$loadAdvancements$0(ForgeHooks.java:1381) ~[ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) [CraftingHelper.class:?]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1359) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraftforge.common.ForgeHooks.loadAdvancements(ForgeHooks.java:1326) [ForgeHooks.class:14.23.5.2860]
+	at net.minecraft.advancements.AdvancementManager.func_192779_a(AdvancementManager.java:69) [ns.class:?]
+	at net.minecraft.advancements.AdvancementManager.<init>(AdvancementManager.java:60) [ns.class:?]
+	at net.minecraft.world.WorldServer.func_175643_b(WorldServer.java:156) [oo.class:?]
+	at net.minecraft.server.MinecraftServer.func_71247_a(MinecraftServer.java:298) [MinecraftServer.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[03:17:18] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 928 advancements
+[03:17:18] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[03:17:18] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@50578786)
+[03:17:18] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[03:17:18] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[03:17:18] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@50578786)
+[03:17:18] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[03:17:18] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@50578786)
+[03:17:18] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[03:17:18] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[03:17:19] [Server thread/INFO] [STDOUT]: [com.dhanantry.scapeandrunparasites.world.SRPSaveData:get:77]: nanissss--------asdddddddddddddddddddddddddddddddddddddddd----
+[03:17:19] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[03:17:20] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 86%
+[03:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.121s)! For help, type "help" or "?"
+[03:17:20] [Server thread/INFO] [journeymap]: global (FirstLoaded) Setting config file to version "5.7.0": journeymap.server.global.config
+[03:17:20] [Server thread/INFO] [journeymap]: global (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.global.config
+[03:17:20] [Server thread/INFO] [journeymap]: default (FirstLoaded) Setting config file to version "5.7.0": journeymap.server.default.config
+[03:17:20] [Server thread/INFO] [journeymap]: default (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.default.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim0 (Initialized) Setting config file to version "5.7.0": journeymap.server.dim0.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim0 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim0.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim1 (Initialized) Setting config file to version "5.7.0": journeymap.server.dim1.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim1.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim-1 (Initialized) Setting config file to version "5.7.0": journeymap.server.dim-1.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim-1 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim-1.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim111 (Initialized) Setting config file to version "5.7.0": journeymap.server.dim111.config
+[03:17:20] [Server thread/INFO] [journeymap]: dim111 (Valid) Creating config file: ./journeymap/server/5.7/journeymap.server.dim111.config
+[03:17:20] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[03:17:20] [Server thread/INFO] [FML]: Unloading dimension 1
+[03:17:20] [Server thread/INFO] [FML]: Unloading dimension -1
+[03:17:20] [Server thread/INFO] [FML]: Unloading dimension 111
+[03:19:03] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[03:19:03] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,mca@6.1.0,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,tombstone@4.7.5,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[03:19:03] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
+[03:19:05] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[03:19:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:52971] logged in with entity id 160 at (218.5, 68.0, 241.5)
+[03:19:05] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
+[03:19:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
+[03:19:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
+[03:19:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
+[03:20:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:20:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:20:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[03:20:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[03:20:10] [Server thread/INFO] [FML]: Unloading dimension 0
+[03:20:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[03:20:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[03:20:10] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
