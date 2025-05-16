@@ -25,7 +25,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "forest": "2025-05-16 03:19:05 +0000"
+      "forest": "2025-05-16 03:19:05 +0000",
+      "birch_forest": "2025-05-16 12:23:21 +0000",
+      "forest_hills": "2025-05-16 12:23:10 +0000",
+      "plains": "2025-05-16 12:23:39 +0000",
+      "birch_forest_hills": "2025-05-16 12:23:22 +0000",
+      "river": "2025-05-16 12:23:25 +0000"
     },
     "done": false
   }
