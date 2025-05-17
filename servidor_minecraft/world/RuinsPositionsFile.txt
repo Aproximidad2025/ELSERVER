@@ -18,12 +18,12 @@
 -156 85 88 -148 93 99 MinersHut.tml
 -150 64 740 -140 78 750 Building6.tml
 -139 69 223 -119 102 249 AdvancedUndergroundHouse.tml
--68 70 342 -53 117 353 WindTurbine.tml
 -68 60 -155 -57 74 -144 DwarfBase.tml
--47 66 -17 -40 101 -10 Tubes.tml
+-68 70 342 -53 117 353 WindTurbine.tml
 -47 67 57 -35 84 76 Airfield.tml
--42 69 439 5 94 452 GantryCrane.tml
+-47 66 -17 -40 101 -10 Tubes.tml
 -42 68 182 -31 87 193 Locator2.tml
+-42 69 439 5 94 452 GantryCrane.tml
 16 64 814 17 66 815 BuriedChest.tml
 17 68 349 22 75 360 OilPump1.tml
 24 69 258 25 71 259 BuriedChest.tml
@@ -35,6 +35,7 @@
 160 69 -222 171 74 -213 ThrownHouse3.tml
 165 63 71 186 109 92 PowerLineNew.tml
 212 79 416 219 114 423 Tubes.tml
+228 68 -123 249 104 -112 LaunchPlatform.tml
 284 64 615 295 83 622 AdvancedShelter.tml
 290 64 93 300 78 103 Building6.tml
 412 64 165 413 66 166 BuriedChest.tml
