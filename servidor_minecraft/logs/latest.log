@@ -1,205 +1,205 @@
-[14:26:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[14:26:24] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[14:26:24] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[14:26:24] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:26:24] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:26:24] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:26:24] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[14:26:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:26:24] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
-[14:26:24] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[14:26:24] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[14:26:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[14:26:24] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[14:26:24] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[14:26:24] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
-[14:26:24] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
-[14:26:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[14:26:24] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
-[14:26:24] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
-[14:26:24] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[14:26:24] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[14:26:24] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[14:26:24] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[14:26:24] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[14:26:24] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[14:26:24] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[14:26:24] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[14:26:24] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[14:26:24] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[14:26:26] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4917d36b
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[14:26:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:26:26] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[14:26:26] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[14:26:26] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[14:26:26] [main/INFO] [Thicc ASM]: Transforming Entity
-[14:26:26] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[14:26:26] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[14:26:26] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:27] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
-[14:26:27] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[14:26:27] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[14:26:27] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[14:26:27] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:27] [main/INFO] [Thicc ASM]: Transforming Entity
-[14:26:27] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[14:26:27] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[14:26:27] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:27] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[14:26:27] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[14:26:27] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:27] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[14:26:27] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[14:26:27] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:27] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[14:26:27] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[14:26:27] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[14:26:29] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[14:26:29] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[14:26:29] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[14:26:29] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:29] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[14:26:29] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[14:26:29] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:29] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[14:26:29] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[14:26:29] [main/INFO] [Thicc ASM]: Patch result: Success
-[14:26:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[14:26:30] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[14:26:30] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[14:26:30] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[14:26:30] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[14:26:30] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[14:26:31] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
-[14:26:31] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[14:26:32] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
-[14:26:32] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
-[14:26:32] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[14:26:32] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
-[14:26:32] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[14:26:32] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[14:26:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at CLIENT
-[14:26:33] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at SERVER
-[14:26:33] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
-[14:26:34] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[14:26:34] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[14:26:35] [Server thread/INFO] [FML]: Found 1525 ObjectHolder annotations
-[14:26:35] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[14:26:35] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[14:26:35] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[14:26:35] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[14:26:35] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[14:26:35] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[14:26:35] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[14:26:35] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[14:26:35] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[14:26:36] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:36] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:36] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
-[14:26:36] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[14:26:36] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[14:26:36] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[14:26:37] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[14:26:37] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[14:26:37] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[14:26:37] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[14:26:37] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[14:26:37] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[14:26:38] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
-[14:26:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[14:26:38] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[14:26:38] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[14:26:38] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[14:26:38] [Server thread/INFO] [Chisel]: Loading blocks...
-[14:26:38] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[14:26:38] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[14:26:38] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[14:26:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[14:26:38] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
-[14:26:38] [Server thread/INFO] [Chisel]: Loading Tile Entities...
-[14:26:38] [Server thread/INFO] [Chisel]: Tile Entities loaded.
-[14:26:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:39] [Server thread/INFO] [Chisel]: Loading items...
-[14:26:39] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[14:26:39] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[14:26:39] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[14:26:39] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
-[14:26:39] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[14:26:39] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[14:26:39] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[14:26:39] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[14:26:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:39] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[14:26:39] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[14:26:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:39] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:39] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:39] [Server thread/INFO] [FML]: Injecting itemstacks
-[14:26:39] [Server thread/INFO] [FML]: Itemstack injection complete
-[14:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[14:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[14:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[14:26:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[14:26:39] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[14:26:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:26:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[14:26:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:26:39] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:26:40] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[14:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[14:36:51] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[14:36:51] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[14:36:51] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:36:51] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:36:51] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:36:51] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[14:36:51] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:36:51] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[14:36:51] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[14:36:51] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[14:36:51] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[14:36:51] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:36:51] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:36:51] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
+[14:36:51] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
+[14:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[14:36:51] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
+[14:36:51] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[14:36:51] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[14:36:51] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[14:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[14:36:51] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:36:51] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:36:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[14:36:51] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[14:36:51] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[14:36:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[14:36:53] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4917d36b
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:36:53] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:36:53] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:36:53] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:36:53] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[14:36:53] [main/INFO] [Thicc ASM]: Transforming Entity
+[14:36:53] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[14:36:53] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[14:36:53] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:53] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[14:36:54] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[14:36:54] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[14:36:54] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[14:36:54] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:54] [main/INFO] [Thicc ASM]: Transforming Entity
+[14:36:54] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[14:36:54] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[14:36:54] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:54] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[14:36:54] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[14:36:54] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:54] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[14:36:54] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[14:36:54] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:54] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[14:36:54] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[14:36:54] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[14:36:56] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[14:36:56] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[14:36:56] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[14:36:56] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:56] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[14:36:56] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[14:36:56] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:56] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[14:36:56] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[14:36:56] [main/INFO] [Thicc ASM]: Patch result: Success
+[14:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[14:36:57] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[14:36:57] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:36:57] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:36:57] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[14:36:58] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[14:36:58] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[14:36:58] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[14:36:59] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[14:36:59] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
+[14:36:59] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[14:36:59] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
+[14:36:59] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[14:36:59] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[14:37:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at CLIENT
+[14:37:00] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at SERVER
+[14:37:00] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[14:37:01] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[14:37:02] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[14:37:02] [Server thread/INFO] [FML]: Found 1525 ObjectHolder annotations
+[14:37:02] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[14:37:02] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[14:37:02] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[14:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[14:37:02] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[14:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[14:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[14:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[14:37:02] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:37:03] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[14:37:03] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[14:37:03] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:03] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:03] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
+[14:37:03] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[14:37:03] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[14:37:03] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[14:37:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[14:37:03] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[14:37:04] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[14:37:04] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[14:37:04] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[14:37:04] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[14:37:05] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[14:37:05] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[14:37:05] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[14:37:05] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[14:37:05] [Server thread/INFO] [Chisel]: Loading blocks...
+[14:37:05] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:37:05] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:37:05] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:37:05] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[14:37:05] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[14:37:05] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[14:37:06] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:06] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:06] [Server thread/INFO] [Chisel]: Loading items...
+[14:37:06] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:37:06] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:37:06] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:37:06] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[14:37:06] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[14:37:06] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[14:37:06] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[14:37:06] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[14:37:06] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:06] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:06] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[14:37:06] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[14:37:06] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:06] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:06] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:06] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:06] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:37:06] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[14:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[14:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[14:37:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:64125
+[14:37:06] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[14:37:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:37:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[14:37:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:37:06] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:37:07] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -220,7 +220,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[14:26:40] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[14:37:07] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -235,36 +235,36 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[14:26:40] [Server thread/INFO] [Chisel]: Loading recipes...
-[14:26:40] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[14:26:40] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[14:26:40] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[14:26:40] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
-[14:26:40] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
-[14:26:40] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[14:26:40] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[14:26:40] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[14:26:40] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:40] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:40] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[14:26:40] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[14:26:40] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[14:26:40] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
-[14:26:40] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
-[14:26:40] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
-[14:26:40] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
-[14:26:40] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
-[14:26:40] [Server thread/INFO] [FML]: Injecting itemstacks
-[14:26:40] [Server thread/INFO] [FML]: Itemstack injection complete
-[14:26:40] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[14:26:40] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[14:26:41] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
-[14:26:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[14:26:41] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[14:26:41] [Server thread/INFO] [FML]: Applying holder lookups
-[14:26:41] [Server thread/INFO] [FML]: Holder lookups applied
-[14:26:41] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@2c43a700)
-[14:26:41] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+[14:37:07] [Server thread/INFO] [Chisel]: Loading recipes...
+[14:37:07] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[14:37:07] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[14:37:07] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[14:37:07] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[14:37:07] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[14:37:07] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[14:37:07] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[14:37:07] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[14:37:07] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:07] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:07] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[14:37:07] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[14:37:07] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[14:37:07] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
+[14:37:07] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
+[14:37:07] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[14:37:07] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[14:37:07] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[14:37:07] [Server thread/INFO] [FML]: Injecting itemstacks
+[14:37:07] [Server thread/INFO] [FML]: Itemstack injection complete
+[14:37:07] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[14:37:07] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[14:37:08] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
+[14:37:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[14:37:08] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[14:37:08] [Server thread/INFO] [FML]: Applying holder lookups
+[14:37:08] [Server thread/INFO] [FML]: Holder lookups applied
+[14:37:08] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@167f8c03)
+[14:37:08] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -288,7 +288,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[14:26:42] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+[14:37:09] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -316,44 +316,31 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[14:26:42] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 791 advancements
-[14:26:42] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[14:26:42] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c43a700)
-[14:26:42] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[14:26:42] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[14:26:42] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@2c43a700)
-[14:26:42] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[14:26:42] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@2c43a700)
-[14:26:42] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
-[14:26:42] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[14:26:42] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
-[14:26:43] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 42%
-[14:26:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.597s)! For help, type "help" or "?"
-[14:26:43] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[14:26:43] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 64125
-[14:26:43] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[14:26:44] [Server thread/INFO] [FML]: Unloading dimension 1
-[14:26:44] [Server thread/INFO] [FML]: Unloading dimension -1
-[14:26:44] [Server thread/INFO] [FML]: Unloading dimension 111
-[14:27:29] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3715
-[14:28:01] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[14:28:01] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[14:28:01] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[14:28:03] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[14:28:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:52333] logged in with entity id 717 at (-38.34749458591772, 70.5, 66.41468023554442)
-[14:28:03] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[14:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[14:28:05] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
-[14:28:05] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[14:29:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Spectator Mode]
-[14:35:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[14:35:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[14:35:17] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
-[14:35:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[14:35:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[14:35:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[14:35:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[14:35:24] [Server thread/INFO] [FML]: Unloading dimension 0
-[14:35:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[14:35:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[14:35:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:37:09] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 791 advancements
+[14:37:09] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[14:37:09] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@167f8c03)
+[14:37:09] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[14:37:09] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[14:37:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@167f8c03)
+[14:37:09] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[14:37:09] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@167f8c03)
+[14:37:09] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[14:37:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[14:37:09] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[14:37:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 63%
+[14:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.384s)! For help, type "help" or "?"
+[14:37:10] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[14:37:10] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at port 64125
+[14:37:10] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[14:37:10] [Server thread/INFO] [FML]: Unloading dimension 1
+[14:37:10] [Server thread/INFO] [FML]: Unloading dimension -1
+[14:37:10] [Server thread/INFO] [FML]: Unloading dimension 111
+[14:37:55] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3715
+[14:39:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:39:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:39:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[14:39:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[14:39:12] [Server thread/INFO] [FML]: Unloading dimension 0
+[14:39:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[14:39:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[14:39:12] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
