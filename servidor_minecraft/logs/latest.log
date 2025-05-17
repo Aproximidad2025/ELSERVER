@@ -1,205 +1,207 @@
-[17:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
-[17:31:10] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[17:31:10] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
-[17:31:10] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:10] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:10] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:10] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
-[17:31:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:10] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
-[17:31:10] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
-[17:31:10] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[17:31:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
-[17:31:10] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[17:31:10] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[17:31:10] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
-[17:31:10] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
-[17:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[17:31:10] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
-[17:31:10] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
-[17:31:10] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
-[17:31:10] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[17:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[17:31:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[17:31:10] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[17:31:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[17:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[17:31:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[17:31:10] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
-[17:31:10] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:11] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
-[17:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
-[17:31:11] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@4917d36b
-[17:31:11] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
-[17:31:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:31:12] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
-[17:31:12] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
-[17:31:12] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
-[17:31:12] [main/INFO] [Thicc ASM]: Transforming Entity
-[17:31:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[17:31:12] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[17:31:12] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:12] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
-[17:31:12] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[17:31:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[17:31:12] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[17:31:12] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:12] [main/INFO] [Thicc ASM]: Transforming Entity
-[17:31:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
-[17:31:12] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
-[17:31:12] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[17:31:12] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[17:31:12] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:12] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[17:31:12] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[17:31:12] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:12] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
-[17:31:12] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
-[17:31:12] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
-[17:31:14] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
-[17:31:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
-[17:31:14] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
-[17:31:14] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[17:31:14] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
-[17:31:14] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:14] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
-[17:31:14] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
-[17:31:14] [main/INFO] [Thicc ASM]: Patch result: Success
-[17:31:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
-[17:31:15] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
-[17:31:15] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
-[17:31:15] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
-[17:31:15] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
-[17:31:15] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
-[17:31:16] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
-[17:31:16] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
-[17:31:17] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
-[17:31:17] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
-[17:31:17] [Server thread/INFO] [FML]: Forge Mod Loader has identified 36 mods to load
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
-[17:31:17] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
-[17:31:17] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[17:31:17] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
-[17:31:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at CLIENT
-[17:31:18] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at SERVER
-[17:31:18] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
-[17:31:19] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
-[17:31:19] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
-[17:31:20] [Server thread/INFO] [FML]: Found 1525 ObjectHolder annotations
-[17:31:20] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
-[17:31:20] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
-[17:31:20] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
-[17:31:20] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
-[17:31:20] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
-[17:31:20] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
-[17:31:20] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
-[17:31:20] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
-[17:31:20] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
-[17:31:21] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:21] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:21] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
-[17:31:21] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
-[17:31:21] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
-[17:31:21] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
-[17:31:21] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[17:31:21] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
-[17:31:22] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
-[17:31:22] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
-[17:31:22] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
-[17:31:22] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
-[17:31:22] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
-[17:31:22] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
-[17:31:22] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
-[17:31:22] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
-[17:31:22] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
-[17:31:22] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
-[17:31:22] [Server thread/INFO] [Chisel]: Loading blocks...
-[17:31:22] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
-[17:31:23] [Server thread/INFO] [Chisel]: Loading Tile Entities...
-[17:31:23] [Server thread/INFO] [Chisel]: Tile Entities loaded.
-[17:31:23] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:23] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:23] [Server thread/INFO] [Chisel]: Loading items...
-[17:31:23] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[17:31:23] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
-[17:31:23] [Server thread/INFO] [Spartan Shields]: Items Registered!
-[17:31:23] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
-[17:31:23] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
-[17:31:23] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
-[17:31:24] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:24] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:24] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
-[17:31:24] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
-[17:31:24] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:24] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:24] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:24] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:24] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:31:24] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
-[17:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
-[17:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
-[17:31:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
-[17:31:24] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
-[17:31:24] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[17:31:24] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
-[17:31:24] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[17:31:24] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
-[17:31:24] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
+[19:48:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:48:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:48:28] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[19:48:28] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[19:48:28] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1027-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[19:48:28] [main/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ChunkAnimator-1.12.2-1.2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod lumien.chunkanimator.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN] [FML]: The coremod LoadingPlugin (lumien.chunkanimator.asm.LoadingPlugin) is not signed!
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[19:48:28] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DynamicSurroundings-1.12.2-3.6.3.jar
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Future-MC-0.2.21.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[19:48:28] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[19:48:28] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
+[19:48:28] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from SpartanWeaponry-1.12.2-1.6.0.jar
+[19:48:28] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in thiccentities-1.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[19:48:28] [main/WARN] [FML]: The coremod wiresegal.thicc.asm.ThiccCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[19:48:28] [main/WARN] [FML]: The coremod ThiccEntities Plugin (wiresegal.thicc.asm.ThiccCorePlugin) is not signed!
+[19:48:28] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from voicechat-forge-1.12.2-2.5.30.jar
+[19:48:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:28] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[19:48:29] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/workspaces/ELSERVER/servidor_minecraft/./mods/DynamicSurroundings-1.12.2-3.6.3.jar Service=LaunchWrapper Env=SERVER
+[19:48:29] [main/WARN] [FML]: The coremod TransformLoader (org.orecruncher.dsurround.mixins.TransformLoader) is not signed!
+[19:48:29] [main/WARN] [FML]: The coremod SpartanWeaponry-MixinLoader (com.oblivioussp.spartanweaponry.mixin.MixinLoader) is not signed!
+[19:48:29] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
+[19:48:29] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:48:29] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[19:48:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
+[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[19:48:29] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: Forge server detected, skipping class transformer
+[19:48:29] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[19:48:30] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@7b44b63d
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[19:48:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:48:30] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[19:48:30] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[19:48:30] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[19:48:30] [main/INFO] [Thicc ASM]: Transforming Entity
+[19:48:30] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[19:48:30] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[19:48:30] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:30] [main/INFO] [mixin]: A re-entrant transformer '$wrapper.thedarkcolour.futuremc.asm.CoreTransformer' was detected and will no longer process meta class data
+[19:48:31] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[19:48:31] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[19:48:31] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[19:48:31] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:31] [main/INFO] [Thicc ASM]: Transforming Entity
+[19:48:31] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [setSize, func_70105_a] Descriptor (FF)V)
+[19:48:31] [main/INFO] [Thicc ASM]: Attempting to insert: Size hook
+[19:48:31] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:31] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[19:48:31] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[19:48:31] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:31] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[19:48:31] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[19:48:31] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:31] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[19:48:31] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[19:48:31] [main/INFO] [STDOUT]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.block.Block Finished.
+[19:48:32] [main/INFO] [Thicc ASM]: Transforming EntityPlayer
+[19:48:32] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getDefaultEyeHeight, ] Descriptor ()F)
+[19:48:32] [main/INFO] [Thicc ASM]: Attempting to insert: Default eye height
+[19:48:32] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:32] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[19:48:32] [main/INFO] [Thicc ASM]: Attempting to insert: Rescale original height
+[19:48:32] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:32] [main/INFO] [Thicc ASM]: Applying Transformation to method (Names [getEyeHeight, func_70047_e] Descriptor ()F)
+[19:48:32] [main/INFO] [Thicc ASM]: Attempting to insert: Eye height hook
+[19:48:32] [main/INFO] [Thicc ASM]: Patch result: Success
+[19:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[19:48:34] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[19:48:34] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[19:48:34] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[19:48:34] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[19:48:34] [Server thread/INFO] [FML]: Searching /workspaces/ELSERVER/servidor_minecraft/./mods for mods
+[19:48:34] [Server thread/INFO] [FML]: Disabling mod chunkanimator it is client side only.
+[19:48:35] [Server thread/INFO] [FML]: Disabling mod ctm it is client side only.
+[19:48:35] [Server thread/WARN] [FML]: Mod mobends is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.1
+[19:48:35] [Server thread/WARN] [FML]: Mod voicechat is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-2.5.30
+[19:48:36] [Server thread/INFO] [FML]: Forge Mod Loader has identified 37 mods to load
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for forgelin: assets/forgelin/lang/en_us.lang
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for ruins: assets/ruins/lang/en_us.lang
+[19:48:36] [Server thread/WARN] [FML]: Missing English translation for thiccentities: assets/thiccentities/lang/en_us.lang
+[19:48:36] [Server thread/INFO] [FML]: FML has found a non-mod file ChunkAnimator-1.12.2-1.2.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:48:36] [Server thread/INFO] [FML]: FML has found a non-mod file CTM-MC1.12.2-1.0.2.31.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[19:48:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, carryon, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at CLIENT
+[19:48:36] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, obfuscate, biomesoplenty, carryon, chisel, extendedrenderer, coroutil, configmod, creativecore, dsurround, forgelin, futuremc, cgm, hw_inv, jei, journeymap, lostcities, mobends, ruins, nocubessrparmory, nocubessrpnests, nocubessrpsurvival, playerrevive, spartanshields, spartanweaponry, srparasites, thiccentities, toughasnails, travelersbackpack, traverse, voicechat, zombieawareness, orelib] at SERVER
+[19:48:36] [Server thread/ERROR] [FML]: The mod carryon is expecting signature fd21553434f4905f2f73ea7838147ac4ea07bd88 for source carryon-1.12.2-1.12.7.23.jar, however there is no signature matching that description
+[19:48:36] [Server thread/WARN] [dsurround]: Invalid fingerprint detected!
+[19:48:37] [Server thread/WARN] [FML]: Patcher expecting empty class data file for net.minecraft.block.state.BlockStateContainer$Builder, but received non-empty
+[19:48:38] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[19:48:38] [Server thread/INFO] [FML]: Found 1525 ObjectHolder annotations
+[19:48:38] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[19:48:38] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[19:48:38] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[19:48:38] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[19:48:38] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[19:48:39] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[19:48:39] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Starting version check at https://maxhenkel.de/update/voicechat.json
+[19:48:39] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:39] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:39] [Server thread/INFO] [coroutil]: Detected coroutil json data missing or unchanged from previous generation, generating from templates
+[19:48:39] [Server thread/INFO] [orelib]: Loading language resources [orelib:en_us]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$profiles::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$calc::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$commands$ds::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$speechbubbles::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$player::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$sound::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$effects::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$biomes::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$aurora::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$general::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$fog::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$rain::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$logging::PATH]
+[19:48:39] [Server thread/WARN] [orelib]: Unable to locate field [org.orecruncher.dsurround.ModOptions$asm::PATH]
+[19:48:39] [Server thread/INFO] [orelib]: Loading language resources [dsurround:en_us]
+[19:48:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[19:48:40] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[19:48:40] [Server thread/INFO] [Spartan Shields]: Starting up Spartan Shields!
+[19:48:40] [Server thread/INFO] [Spartan Weaponry]: Starting up Spartan Weaponry!
+[19:48:40] [Server thread/INFO] [Spartan Weaponry]: API: Loaded internal method handler. API functionality should work now!
+[19:48:40] [Server thread/INFO] [Spartan Weaponry]: Defined config version: 2.0 - Loaded config version: 2.0
+[19:48:41] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] Checked for 2 mods that may be in the list that need patches or alternative code
+[19:48:41] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `temperature_spread`, expected `toughasnails`. This could be a intended override, but in most cases indicates a broken mod.
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [voicechat] Found status: AHEAD Target: null
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Starting version check at https://raw.githubusercontent.com/OreCruncher/OreLib/master/version.json
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectWater as a FluidEffect for water with the ID 0
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectLava as a FluidEffect for lava with the ID 1
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectMilk as a FluidEffect for milk with the ID 2
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Registered the class com.tiviacz.travelersbackpack.fluids.effects.EffectPotion as a FluidEffect for potion with the ID 3
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Starting the Integration Handler.
+[19:48:41] [Server thread/INFO] [travelersbackpack]: Didn't find any possible mod integration(s)!
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [orelib] Found status: UP_TO_DATE Target: null
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [carryon] Starting version check at https://gist.githubusercontent.com/Tschipp/dccadee7c90d7a34e6e76a35d9d6fa2e/raw/
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[19:48:41] [Server thread/INFO] [Chisel]: Loading blocks...
+[19:48:41] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:48:41] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:48:41] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:48:41] [Forge Version Check/INFO] [forge.VersionCheck]: [travelersbackpack] Found status: AHEAD Target: null
+[19:48:41] [Server thread/INFO] [Chisel]: 72 Feature's blocks loaded.
+[19:48:41] [Server thread/INFO] [Chisel]: Loading Tile Entities...
+[19:48:41] [Server thread/INFO] [Chisel]: Tile Entities loaded.
+[19:48:42] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:42] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:42] [Server thread/INFO] [Chisel]: Loading items...
+[19:48:42] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:48:42] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:48:42] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:48:42] [Server thread/INFO] [Chisel]: 72 Feature's items loaded.
+[19:48:42] [Server thread/INFO] [Spartan Shields]: Items Registered!
+[19:48:42] [Server thread/INFO] [Spartan Weaponry]: Registering 10 modded material based weapons
+[19:48:42] [Server thread/INFO] [Spartan Weaponry]: Adding weapons for materials: Copper, Tin, Bronze, Steel, Silver, Invar, Platinum, Electrum, Nickel, Lead
+[19:48:42] [Server thread/INFO] [Spartan Weaponry]: Items Registered!
+[19:48:42] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:42] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:42] [Server thread/INFO] [Spartan Weaponry]: Registering Enchantments!
+[19:48:42] [Server thread/INFO] [Spartan Weaponry]: Registering entities!
+[19:48:42] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:42] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:42] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:42] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:42] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:48:42] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:48:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[19:48:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[19:48:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[19:48:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[19:48:42] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[19:48:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:48:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[19:48:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:48:42] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:48:43] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrparmory:recipe_vanilla_arrows
 com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStackBasic(CraftingHelper.java:262) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$16(CraftingHelper.java:544) ~[CraftingHelper.class:?]
@@ -220,7 +222,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'srparasites:strange_bone'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[17:31:24] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
+[19:48:43] [Server thread/ERROR] [FML]: Parsing error loading recipe nocubessrpsurvival:recipe_parasitic_bone_block
 com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pattern: [2, 5, 6, 7, 8]
 	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$14(CraftingHelper.java:521) ~[CraftingHelper.class:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
@@ -235,36 +237,38 @@ com.google.gson.JsonSyntaxException: Key defines symbols that aren't used in pat
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[17:31:24] [Server thread/INFO] [Chisel]: Loading recipes...
-[17:31:24] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
-[17:31:24] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
-[17:31:24] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
-[17:31:24] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
-[17:31:24] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
-[17:31:24] [Server thread/INFO] [Spartan Shields]: Recipes added!
-[17:31:24] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
-[17:31:24] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
-[17:31:24] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:24] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:24] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
-[17:31:25] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
-[17:31:25] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
-[17:31:25] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
-[17:31:25] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
-[17:31:25] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
-[17:31:25] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
-[17:31:25] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
-[17:31:25] [Server thread/INFO] [FML]: Injecting itemstacks
-[17:31:25] [Server thread/INFO] [FML]: Itemstack injection complete
-[17:31:25] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
-[17:31:25] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
-[17:31:25] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 36 mods
-[17:31:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
-[17:31:25] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
-[17:31:26] [Server thread/INFO] [FML]: Applying holder lookups
-[17:31:26] [Server thread/INFO] [FML]: Holder lookups applied
-[17:31:26] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@3eed99b9)
-[17:31:26] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
+[19:48:43] [Server thread/INFO] [Chisel]: Loading recipes...
+[19:48:43] [Server thread/INFO] [Chisel]: Skipping feature arcaneStone as its required mod thaumcraft was missing.
+[19:48:43] [Server thread/INFO] [Chisel]: Skipping feature bloodMagic as its required mod bloodmagic was missing.
+[19:48:43] [Server thread/INFO] [Chisel]: Skipping feature certus as its required mod appliedenergistics2 was missing.
+[19:48:43] [Server thread/INFO] [Chisel]: 72 Feature's recipes loaded.
+[19:48:43] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `nether_brick_fence`, expected `futuremc`. This could be a intended override, but in most cases indicates a broken mod.
+[19:48:43] [Server thread/INFO] [Spartan Shields]: Recipes added!
+[19:48:43] [Server thread/INFO] [Spartan Weaponry]: Registering recipes for Tipped Bolts!
+[19:48:43] [Server thread/INFO] [Spartan Weaponry]: Recipes added!
+[19:48:43] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:43] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:43] [Server thread/INFO] [Spartan Weaponry]: Registering OreDictionary entries
+[19:48:43] [Server thread/INFO] [Spartan Weaponry]: Attempting to add new advancement triggers...
+[19:48:43] [Server thread/INFO] [Spartan Weaponry]: New advancement triggers added successfully!
+[19:48:43] [Server thread/INFO] [voicechat]: [voicechat] Compatibility version 18
+[19:48:43] [Server thread/INFO] [voicechat]: [voicechat] Loading plugins
+[19:48:43] [Server thread/INFO] [voicechat]: [voicechat] Loaded 0 plugin(s)
+[19:48:43] [Server thread/INFO] [voicechat]: [voicechat] Initializing plugins
+[19:48:43] [Server thread/INFO] [voicechat]: [voicechat] Initialized 0 plugin(s)
+[19:48:43] [Server thread/INFO] [FML]: Injecting itemstacks
+[19:48:43] [Server thread/INFO] [FML]: Itemstack injection complete
+[19:48:43] [Server thread/INFO] [srparasites]: [MOD COMPATIBILITY] 0 of 2 modules activated
+[19:48:43] [Server thread/INFO] [dsurround]: Initializing registry [Dimension Registry]
+[19:48:43] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 37 mods
+[19:48:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[19:48:44] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[19:48:44] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: carryon:tile_item Expected: 4258 Got: 5545
+[19:48:44] [Server thread/WARN] [FML]: Registry Item: Object did not get ID it asked for. Name: carryon:entity_item Expected: 4259 Got: 5546
+[19:48:44] [Server thread/INFO] [FML]: Applying holder lookups
+[19:48:44] [Server thread/INFO] [FML]: Holder lookups applied
+[19:48:44] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[19:48:44] [Server thread/ERROR] [net.minecraft.advancements.AdvancementManager]: Parsing error loading built-in advancement minecraft:recipes/redstone/trapdoor
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -288,7 +292,7 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[17:31:26] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
+[19:48:44] [Server thread/ERROR] [FML]: Parsing error loading built-in advancement biomesoplenty:recipes/redstone/trapdoor_from_bop_wood
 com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:171) ~[l$a.class:?]
 	at net.minecraft.advancements.AdvancementRewards$Deserializer.deserialize(AdvancementRewards.java:147) ~[l$a.class:?]
@@ -316,574 +320,176 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:270) [nz.class:?]
 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
 	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
-[17:31:26] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 791 advancements
-[17:31:26] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
-[17:31:26] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@3eed99b9)
-[17:31:26] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
-[17:31:26] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
-[17:31:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@3eed99b9)
-[17:31:26] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
-[17:31:26] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@3eed99b9)
-[17:31:26] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
-[17:31:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
-[17:31:27] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
-[17:31:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 68%
-[17:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.380s)! For help, type "help" or "?"
-[17:31:28] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[17:31:28] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice host is 'music-verified.gl.at.ply.gg:2844'
-[17:31:28] [VoiceChatServerThread/ERROR] [voicechat]: [voicechat] Failed to bind to address '147.185.221.23', binding to wildcard IP instead
-[17:31:28] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at 147.185.221.23:2844
-[17:31:28] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
-[17:31:28] [Server thread/INFO] [FML]: Unloading dimension 1
-[17:31:28] [Server thread/INFO] [FML]: Unloading dimension -1
-[17:31:28] [Server thread/INFO] [FML]: Unloading dimension 111
-[17:32:13] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3715
-[17:32:35] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[17:32:35] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[17:32:35] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[17:32:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:32:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:55379] logged in with entity id 649 at (-42.61090598897492, 82.29473684555224, 71.69642183459095)
-[17:32:36] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[17:32:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[17:32:38] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
-[17:32:38] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[17:32:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[17:32:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[17:32:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[17:33:56] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[17:33:56] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[17:33:56] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[17:33:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:33:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:44677] logged in with entity id 1055 at (-154.30000001192093, 11.0, 465.64358138018247)
-[17:33:58] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
-[17:33:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
-[17:34:01] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
-[17:34:01] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[17:34:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[17:34:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[17:34:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[17:34:10] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[17:34:10] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[17:34:10] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
-[17:34:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:34:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MMatiasM[/127.112.161.188:34803] logged in with entity id 5812 at (-39.29861633286147, 67.0, 60.51079411114177)
-[17:34:12] [Server thread/INFO] [dsurround]: Player [MMatiasM] connected with Dynamic Surroundings @VERSION@
-[17:34:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM joined the game
-[17:34:14] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of MMatiasM (18)
-[17:34:14] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
-[17:34:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> oe
-[17:34:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[17:34:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Teleported Aproximidad to Nyehtz]
-[17:34:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> ya funciona el voice chat
-[17:34:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[17:34:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
-[17:34:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> god
-[17:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> oe
-[17:34:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> me escuchas?
-[17:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Teleported Aproximidad to MMatiasM]
-[17:35:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> estoy sin audio
-[17:35:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> xdd
-[17:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Survival Mode]
-[17:36:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> ya funciona
-[17:38:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tienes cama?
-[17:38:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> zi
-[17:38:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Sweet dreams]
-[17:38:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tenemos mounstros cerca
-[17:39:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> avisan
-[17:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Cover Me With Diamonds]
-[17:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Acquire Hardware]
-[17:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Getting an Upgrade]
-[17:44:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[17:44:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Assimilated Human
-[17:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:47:53] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
-[17:47:53] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[17:47:53] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
-[17:47:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:47:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tenzuuwu[/127.203.146.137:32981] logged in with entity id 581024 at (-38.5, 67.02159847259522, 61.5)
-[17:47:55] [Server thread/INFO] [dsurround]: Player [Tenzuuwu] connected with Dynamic Surroundings @VERSION@
-[17:47:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu joined the game
-[17:47:58] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Tenzuuwu (18)
-[17:47:58] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[17:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Stone Age]
-[17:48:01] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:48:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:48:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[17:48:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player ff26c6ec-9dc4-38ef-b74c-001a5997230c timed out
-[17:48:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Tenzuuwu
-[17:48:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[17:48:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:48:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> chcios p1 la salida de la casa esta onfestada de webadas saltarinas
-[17:48:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:48:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[17:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> xd
-[17:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> deja configuro el chaat
-[17:48:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
-[17:48:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
-[17:48:41] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
-[17:49:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Not Today, Thank You]
-[17:49:55] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[17:49:55] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[17:49:55] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
-[17:49:56] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[17:49:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tenzuuwu[/127.203.146.137:34923] logged in with entity id 666728 at (-37.30000001192093, 66.0, 59.57145668749862)
-[17:49:56] [Server thread/INFO] [dsurround]: Player [Tenzuuwu] connected with Dynamic Surroundings @VERSION@
-[17:49:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu joined the game
-[17:49:58] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Tenzuuwu (18)
-[17:49:58] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[17:50:00] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:50:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[17:50:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[17:50:18] [Netty Epoll Server IO #0/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Biomes O' Plenty, Chisel, CreativeCore, Extended Mod Config, Extended Renderer, Future MC, Mo' Bends, MrCrayfish's Gun Mod, Player Revive, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), Scape and Run Parasites, Spartan Shields, Spartan Weaponry, Thicc Entities, Tough As Nails, Traveler's Backpack, Traverse, Zombie Awareness]
-[17:51:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Isn't It Iron Pick]
-[17:52:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:52:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was shot by Skeleton
-[17:52:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Monster Hunter]
-[17:55:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:55:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:55:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie
-[17:55:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[17:55:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:55:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie
-[17:55:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[17:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:56:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[17:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:56:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie
-[17:56:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[17:56:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:56:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie
-[17:56:34] [Netty Epoll Server IO #5/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Biomes O' Plenty, Chisel, CreativeCore, Extended Mod Config, Extended Renderer, Future MC, Mo' Bends, MrCrayfish's Gun Mod, Player Revive, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), Scape and Run Parasites, Spartan Shields, Spartan Weaponry, Thicc Entities, Tough As Nails, Traveler's Backpack, Traverse, Zombie Awareness]
-[17:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:56:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[17:56:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[17:56:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Incomplete Form
-[17:56:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu has made the advancement [Isn't It Iron Pick]
-[17:56:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:56:47] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
-[17:56:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie
-[17:56:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:56:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[17:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[17:56:55] [Netty Epoll Server IO #6/INFO] [FML]: Disconnecting Player: This server has mods that require FML/Forge to be installed on the client: [Biomes O' Plenty, Chisel, CreativeCore, Extended Mod Config, Extended Renderer, Future MC, Mo' Bends, MrCrayfish's Gun Mod, Player Revive, SRP: Combat Addon (by NoCube), SRP: Nests Addon (by NoCube), SRP: Survival Addon (by NoCube), Scape and Run Parasites, Spartan Shields, Spartan Weaponry, Thicc Entities, Tough As Nails, Traveler's Backpack, Traverse, Zombie Awareness]
-[17:56:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:57:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Spider
-[17:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Incomplete Form
-[17:57:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[17:57:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by MMatiasM
-[17:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu fell from a high place
-[17:58:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:58:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Zombie Villager
-[17:58:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Take Aim]
-[17:58:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:58:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was killed by magic
-[17:59:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[17:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Assimilated Human
-[17:59:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[18:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Rupter
-[18:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Halberdier]
-[18:04:29] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM moved too quickly! -9.265533861576522,-1.2491870787446828,4.028911940245848
-[18:06:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:06:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:06:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> ayudita
-[18:06:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> @tenzu
-[18:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Deviantive Form
-[18:08:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Deviantive Form
-[18:08:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[18:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Deviantive Form
-[18:09:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu has made the advancement [Suit Up]
-[18:10:28] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
-[18:11:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:13:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Sweet dreams]
-[18:13:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
-[18:13:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
-[18:13:52] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
-[18:14:14] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[18:14:14] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:14:14] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[18:14:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> three whats?, three pingas?
-[18:14:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:14:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tenzuuwu[/127.203.146.137:52155] logged in with entity id 1249627 at (-22.13525528377458, 105.0, 64.78990762629958)
-[18:14:15] [Server thread/INFO] [dsurround]: Player [Tenzuuwu] connected with Dynamic Surroundings @VERSION@
-[18:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu joined the game
-[18:14:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> XD
-[18:14:17] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Tenzuuwu (18)
-[18:14:17] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[18:14:18] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[18:14:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[18:14:20] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[18:16:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Reaping What You Sow]
-[18:17:40] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [-17, -7] in dimension 0 (overworld) while populating chunk [-18, -7], causing cascading worldgen lag.
-[18:17:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:18:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[18:18:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu fell from a high place
-[18:18:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> xdd
-[18:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> 2iq
-[18:19:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:20:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Not Today, Thank You]
-[18:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [A Seedy Place]
-[18:25:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> zzzzzz
-[18:26:31] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
-[18:26:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
-[18:26:31] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
-[18:26:44] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[18:26:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[18:26:44] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
-[18:26:49] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[18:26:50] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:26:50] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[18:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> zzzzzzz
-[18:26:51] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:26:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tenzuuwu[/127.203.146.137:51053] logged in with entity id 1581824 at (-42.06362260097933, 67.0, 63.32170396160578)
-[18:26:51] [Server thread/INFO] [dsurround]: Player [Tenzuuwu] connected with Dynamic Surroundings @VERSION@
-[18:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu joined the game
-[18:26:52] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Tenzuuwu (18)
-[18:26:52] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[18:26:54] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[18:26:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72 timed out
-[18:26:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player MMatiasM
-[18:26:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
-[18:26:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[18:26:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[18:27:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM lost connection: Timed out
-[18:27:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM left the game
-[18:27:02] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client MMatiasM
-[18:27:19] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[18:27:19] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:27:19] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
-[18:27:21] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:27:21] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:35163] logged in with entity id 1591879 at (-41.94135879117766, 67.0, 65.29530062388483)
-[18:27:21] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[18:27:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[18:27:23] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
-[18:27:23] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[18:27:25] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:27:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:27:27] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[18:27:29] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:27:29] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:27:29] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[18:27:30] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:27:30] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MMatiasM[/127.112.161.188:47065] logged in with entity id 1595256 at (-39.84854058447851, 67.0, 61.35783444822604)
-[18:27:30] [Server thread/INFO] [dsurround]: Player [MMatiasM] connected with Dynamic Surroundings @VERSION@
-[18:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM joined the game
-[18:27:32] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of MMatiasM (18)
-[18:27:32] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
-[18:27:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[18:27:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[18:27:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
-[18:27:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c729d3e9-fb60-3e4f-b104-6b333d666cfe timed out
-[18:27:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Aproximidad
-[18:27:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[18:27:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu has made the advancement [Not Today, Thank You]
-[18:27:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:27:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:27:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[18:31:31] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[18:31:31] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:31:31] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
-[18:31:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:31:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: FaellSerk[/127.49.248.21:37547] logged in with entity id 1710944 at (-82.5, 67.0, 258.5)
-[18:31:33] [Server thread/INFO] [dsurround]: Player [FaellSerk] connected with Dynamic Surroundings @VERSION@
-[18:31:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk joined the game
-[18:31:36] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of FaellSerk (18)
-[18:31:36] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to FaellSerk
-[18:31:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9
-[18:31:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9
-[18:31:39] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player FaellSerk (f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9) successfully connected to voice chat
-[18:31:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk is bleeding...
-[18:31:48] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FaellSerk lost connection: Disconnected
-[18:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk left the game
-[18:31:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk was slain by Tyder_
-[18:31:48] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client FaellSerk
-[18:31:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> XDD
-[18:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> dea
-[18:31:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> bue no duro nada ._.
-[18:32:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Isn't It Iron Pick]
-[18:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [The Parrots and the Bats]
-[18:34:36] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
-[18:34:36] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:34:36] [Netty Epoll Server IO #1/INFO] [journeymap]: CLIENT
-[18:34:38] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:34:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: FaellSerk[/127.49.248.21:37811] logged in with entity id 1809193 at (-90.55557423180512, 67.0, 258.86981953041084)
-[18:34:38] [Server thread/INFO] [dsurround]: Player [FaellSerk] connected with Dynamic Surroundings @VERSION@
-[18:34:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk joined the game
-[18:34:41] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of FaellSerk (18)
-[18:34:41] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to FaellSerk
-[18:34:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9
-[18:34:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9
-[18:34:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player FaellSerk (f0eccbfe-19ce-3516-a0fa-e2cc0c2cf0c9) successfully connected to voice chat
-[18:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> haz configurado el voice chat?
-[18:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FaellSerk> no
-[18:37:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> dale a la v
-[18:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> pero primero ven
-[18:39:13] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
-[18:39:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
-[18:39:13] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
-[18:39:31] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[18:39:31] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:39:31] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[18:39:33] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:39:33] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:53655] logged in with entity id 1977314 at (-71.30000001192093, 61.36075, 9.699999988079071)
-[18:39:33] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
-[18:39:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
-[18:39:35] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
-[18:39:35] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[18:39:38] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[18:39:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[18:39:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[18:40:39] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: FaellSerk moved wrongly!
-[18:41:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:42:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk is bleeding...
-[18:42:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:42:20] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[18:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[18:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[18:42:20] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
-[18:42:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk is bleeding...
-[18:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:42:30] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
-[18:42:30] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[18:42:30] [Netty Epoll Server IO #7/INFO] [journeymap]: CLIENT
-[18:42:31] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[18:42:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:58757] logged in with entity id 2060064 at (-42.353519102665246, 67.0, 70.74378459478362)
-[18:42:31] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[18:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[18:42:33] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
-[18:42:33] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[18:42:35] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:42:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:42:37] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[18:42:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> eso fue brutal
-[18:42:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c729d3e9-fb60-3e4f-b104-6b333d666cfe timed out
-[18:42:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Aproximidad
-[18:42:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[18:42:49] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:42:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:42:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[18:42:51] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[18:42:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:43:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:43:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[18:43:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:43:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:43:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <FaellSerk> 
-[18:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> dea
-[18:44:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[18:44:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:44:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:44:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[18:44:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[18:44:56] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: FaellSerk lost connection: Disconnected
-[18:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk left the game
-[18:44:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: FaellSerk was slain by Zombie
-[18:44:56] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client FaellSerk
-[18:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:45:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[18:45:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[18:45:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:45:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
-[18:45:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:45:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> @tenzu
-[18:45:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
-[18:45:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> que feu
-[18:45:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> diablos D:
-[18:45:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:45:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:46:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:46:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by entity.bat_smart.name
-[18:46:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
-[18:47:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[18:47:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was shot by Skeleton
-[18:47:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was shot by Skeleton
-[18:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Take Aim]
-[18:50:30] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu moved wrongly!
-[18:51:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -9] in dimension 0 (overworld) while populating chunk [-19, -8], causing cascading worldgen lag.
-[18:51:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:51:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, -8] in dimension 0 (overworld) while populating chunk [-19, -8], causing cascading worldgen lag.
-[18:51:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[18:51:47] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz moved too quickly! 4.224410863330974,-8.071357878354654,-5.385629543037361
-[18:52:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM has made the advancement [Suit Up]
-[18:55:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu has made the advancement [Straightening the Scythes]
-[18:59:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> dios
-[18:59:37] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM lost connection: Disconnected
-[18:59:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM left the game
-[18:59:37] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client MMatiasM
-[18:59:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> <<<<?
-[18:59:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> estan durmiendo?
-[18:59:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> no
-[18:59:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
-[18:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
-[18:59:50] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
-[18:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> zzz
-[18:59:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
-[18:59:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
-[18:59:51] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
-[19:00:55] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
-[19:00:55] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:00:55] [Netty Epoll Server IO #4/INFO] [journeymap]: CLIENT
-[19:00:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:00:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Tenzuuwu[/127.203.146.137:49493] logged in with entity id 2540728 at (-57.606994577587145, 81.0, 121.57719866379604)
-[19:00:57] [Server thread/INFO] [dsurround]: Player [Tenzuuwu] connected with Dynamic Surroundings @VERSION@
-[19:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu joined the game
-[19:00:59] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Tenzuuwu (18)
-[19:00:59] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Tenzuuwu
-[19:01:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[19:01:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player ff26c6ec-9dc4-38ef-b74c-001a5997230c
-[19:01:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Tenzuuwu (ff26c6ec-9dc4-38ef-b74c-001a5997230c) successfully connected to voice chat
-[19:01:13] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
-[19:01:13] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:01:13] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
-[19:01:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:01:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MMatiasM[/127.112.161.188:45309] logged in with entity id 2548170 at (-10.296291872357735, 8.0, 83.97028385949993)
-[19:01:15] [Server thread/INFO] [dsurround]: Player [MMatiasM] connected with Dynamic Surroundings @VERSION@
-[19:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM joined the game
-[19:01:16] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of MMatiasM (18)
-[19:01:16] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
-[19:01:19] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[19:01:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[19:01:24] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
-[19:01:43] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
-[19:01:43] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:01:43] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
-[19:01:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:01:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:53539] logged in with entity id 2558837 at (-71.74228973334662, 61.0, 9.381191551653394)
-[19:01:44] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
-[19:01:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
-[19:01:46] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
-[19:01:46] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[19:01:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:01:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:01:50] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[19:02:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72 timed out
-[19:02:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player MMatiasM
-[19:02:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
-[19:02:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[19:02:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
-[19:02:56] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
-[19:04:01] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM lost connection: Disconnected
-[19:04:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM left the game
-[19:04:01] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client MMatiasM
-[19:07:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad moved too quickly! -8.733917562350918,-1.0968727523255097,4.969238651035013
-[19:10:12] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad moved too quickly! -6.8545335710304585,-0.3739040364667261,7.655364324316793
-[19:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
-[19:10:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to Tenzuuwu]
-[19:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Object successfully summoned]
-[19:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Playing effect smoke for 30 times]
-[19:10:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [: Played sound 'srparasites:flesh.primitive' to Tenzuuwu]
-[19:11:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:11:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tenzu ?
-[19:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> esperate me siguen algunos zomb
-[19:11:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> yaya
-[19:12:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> te espero tieso
-[19:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> ya mate como a 5
-[19:12:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> 1:30 min
-[19:13:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tenzu?
-[19:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Walking Head
-[19:14:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[19:14:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu fell from a high place
-[19:15:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:15:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Rupter
-[19:16:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
-[19:16:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Rupter
-[19:16:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> zzz?
-[19:16:22] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[19:16:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[19:16:22] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
-[19:16:29] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
-[19:16:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
-[19:16:29] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
-[19:16:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tenzuuwu> nyt
-[19:16:56] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
-[19:16:56] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:16:56] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
-[19:16:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:16:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:51263] logged in with entity id 3107459 at (-123.16063803126244, 69.0, 342.42476732346404)
-[19:16:57] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
-[19:16:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
-[19:16:59] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
-[19:16:59] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[19:17:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[19:17:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[19:17:04] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[19:17:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:17:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> quee
-[19:17:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Aproximidad
-[19:17:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c729d3e9-fb60-3e4f-b104-6b333d666cfe timed out
-[19:17:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Aproximidad
-[19:17:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
-[19:17:16] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[19:17:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
-[19:17:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
-[19:18:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:18:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Assimilated Human
-[19:18:20] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:18:20] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:18:20] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[19:18:23] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:18:23] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:58987] logged in with entity id 3160270 at (-72.27391069600657, 61.0, 9.56831405990621)
-[19:18:23] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
-[19:18:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
-[19:18:25] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
-[19:18:25] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[19:18:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
-[19:18:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
-[19:18:27] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
-[19:18:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:18:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:18:30] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[19:18:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> dea
-[19:18:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 56c5e53b-7d52-3ed5-adcf-36baeabb5062 timed out
-[19:18:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Nyehtz
-[19:18:40] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[19:18:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:18:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:18:43] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[19:22:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:22:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Rupter
-[19:23:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:23:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Rupter
-[19:24:13] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad moved wrongly!
-[19:25:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
-[19:25:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Rupter
-[19:27:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
-[19:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
-[19:27:57] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
-[19:28:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
-[19:28:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
-[19:28:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
-[19:33:40] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
-[19:33:40] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
-[19:33:40] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
-[19:33:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
-[19:33:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:56549] logged in with entity id 3540652 at (-70.82673980463375, 61.0, 13.48719747095707)
-[19:33:42] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
-[19:33:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
-[19:33:44] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
-[19:33:44] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
-[19:33:46] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:33:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
-[19:33:48] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
-[19:35:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
-[19:35:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
-[19:35:23] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
-[19:40:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 0/15 players online:
-[19:40:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: 
-[19:40:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:40:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[19:40:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[19:40:24] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
-[19:40:24] [Server thread/INFO] [FML]: Unloading dimension 0
-[19:40:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[19:40:24] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[19:48:44] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 791 advancements
+[19:48:44] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [overworld]
+[19:48:44] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[19:48:44] [Server thread/INFO] [dsurround]: Creating NULL weather generator for dimension [the_end]
+[19:48:45] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[19:48:45] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[19:48:45] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[19:48:45] [Server thread/INFO] [FML]: Loading dimension 111 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[19:48:45] [Server thread/INFO] [dsurround]: Creating STANDARD weather generator for dimension [lostcities]
+[19:48:45] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[19:48:45] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[19:48:46] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 60%
+[19:48:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.329s)! For help, type "help" or "?"
+[19:48:46] [Server thread/WARN] [voicechat]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19:48:46] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice host is 'music-verified.gl.at.ply.gg:2844'
+[19:48:46] [VoiceChatServerThread/ERROR] [voicechat]: [voicechat] Failed to bind to address '147.185.221.23', binding to wildcard IP instead
+[19:48:46] [VoiceChatServerThread/INFO] [voicechat]: [voicechat] Voice chat server started at 147.185.221.23:2844
+[19:48:46] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[19:48:46] [Server thread/INFO] [FML]: Unloading dimension 1
+[19:48:46] [Server thread/INFO] [FML]: Unloading dimension -1
+[19:48:46] [Server thread/INFO] [FML]: Unloading dimension 111
+[19:49:31] [Server thread/INFO] [STDOUT]: [atomicstryker.ruins.common.ChunkLoggerData:func_76184_a:24]: Ruins chunks logged: 3788
+[19:53:35] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[19:53:35] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,carryon@1.12.3,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[19:53:35] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[19:53:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[19:53:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Aproximidad[/127.112.161.188:56851] logged in with entity id 886 at (-37.64590952165445, 67.5625, 62.05337523605229)
+[19:53:36] [Server thread/INFO] [dsurround]: Player [Aproximidad] connected with Dynamic Surroundings @VERSION@
+[19:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad joined the game
+[19:53:38] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Aproximidad (18)
+[19:53:38] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
+[19:53:41] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
+[19:53:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
+[19:53:42] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
+[19:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player c729d3e9-fb60-3e4f-b104-6b333d666cfe timed out
+[19:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player Aproximidad
+[19:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to Aproximidad
+[19:53:53] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player c729d3e9-fb60-3e4f-b104-6b333d666cfe
+[19:53:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player c729d3e9-fb60-3e4f-b104-6b333d666cfe
+[19:53:55] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Aproximidad (c729d3e9-fb60-3e4f-b104-6b333d666cfe) successfully connected to voice chat
+[19:53:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Creative Mode]
+[19:57:27] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[19:57:27] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[19:57:27] [Netty Epoll Server IO #2/INFO] [FML]: Attempting connection with missing mods [carryon] at CLIENT
+[19:57:27] [Netty Epoll Server IO #2/INFO] [journeymap]: CLIENT
+[19:57:27] [Netty Epoll Server IO #2/INFO] [FML]: Rejecting connection CLIENT: Carry On: Requires version 1.12.3 but mod is not found on client.
+[19:57:27] [Netty Epoll Server IO #2/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Carry On: Requires version 1.12.3 but mod is not found on client.
+[19:57:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM lost connection: Server Mod rejections:
+Carry On: Requires version 1.12.3 but mod is not found on client.
+[19:57:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM left the game
+[19:57:27] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client MMatiasM
+[20:00:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:00:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 40 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,tlauncher_custom_cape_skin@1.4,carryon@1.12.3,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[20:00:59] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[20:01:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:01:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MMatiasM[/127.112.161.188:43225] logged in with entity id 156374 at (-16.790867386603697, 11.0, 81.30000001192093)
+[20:01:01] [Server thread/INFO] [dsurround]: Player [MMatiasM] connected with Dynamic Surroundings @VERSION@
+[20:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM joined the game
+[20:01:02] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of MMatiasM (18)
+[20:01:02] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
+[20:01:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set own game mode to Survival Mode]
+[20:01:12] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:14] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
+[20:01:25] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72 timed out
+[20:01:25] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player MMatiasM
+[20:01:25] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
+[20:01:28] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:29] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
+[20:01:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72 timed out
+[20:01:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player MMatiasM
+[20:01:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
+[20:01:44] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:01:45] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
+[20:02:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72 timed out
+[20:02:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Reconnecting player MMatiasM
+[20:02:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Sent secret to MMatiasM
+[20:02:02] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:02:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 6ce7f32b-1730-3493-b5c8-6ee7577a7e72
+[20:02:03] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player MMatiasM (6ce7f32b-1730-3493-b5c8-6ee7577a7e72) successfully connected to voice chat
+[20:03:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[20:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[20:29:46] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[20:29:46] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 38 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[20:29:46] [Netty Epoll Server IO #5/INFO] [FML]: Attempting connection with missing mods [carryon] at CLIENT
+[20:29:46] [Netty Epoll Server IO #5/INFO] [journeymap]: CLIENT
+[20:29:46] [Netty Epoll Server IO #5/INFO] [FML]: Rejecting connection CLIENT: Carry On: Requires version 1.12.3 but mod is not found on client.
+[20:29:46] [Netty Epoll Server IO #5/ERROR] [FML]: Network Disconnect: Server Mod rejections:
+Carry On: Requires version 1.12.3 but mod is not found on client.
+[20:29:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Server Mod rejections:
+Carry On: Requires version 1.12.3 but mod is not found on client.
+[20:29:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
+[20:29:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
+[20:30:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:30:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
+[20:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:31:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
+[20:31:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Zombie
+[20:32:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[20:32:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was shot by Skeleton
+[20:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Zombie
+[20:32:21] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:32:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[20:32:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was shot by Skeleton
+[20:32:59] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[20:32:59] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 39 mods : minecraft@1.12.2,nocubessrparmory@3.0.0,voicechat@1.12.2-2.5.30,extendedrenderer@v1.0,biomesoplenty@7.0.1.2445,cgm@0.15.3,creativecoredummy@1.0.0,chunkanimator@1.12.2-1.2,creativecore@1.10.0,configmod@v1.0,jei@4.16.1.302,futuremc@0.2.6,spartanshields@1.5.5,mcp@9.42,nocubessrpnests@3.0.0,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.0,travelersbackpack@1.0.35,toughasnails@3.1.0.141,zombieawareness@1.12.1-1.11.16,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,forgelin@1.8.4,coroutil@1.12.1-1.2.37,srparasites@1.9.21,spartanweaponry@1.6.0,chisel@MC1.12.2-1.0.2.45,hw_inv@1.12.1-1.1.13,carryon@1.12.3,traverse@1.6.0,nocubessrpsurvival@3.0.0,forge@14.23.5.2859,ruins@17.2,playerrevive@1.0,orelib@3.6.0.1,dsurround@@VERSION@,mobends@1.2.1,thiccentities@GRADLE:VERSION
+[20:32:59] [Netty Epoll Server IO #6/INFO] [journeymap]: CLIENT
+[20:33:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:33:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Nyehtz[/127.112.161.188:41833] logged in with entity id 834772 at (-72.69999998807907, 61.0, 7.300000011920932)
+[20:33:01] [Server thread/INFO] [dsurround]: Player [Nyehtz] connected with Dynamic Surroundings @VERSION@
+[20:33:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz joined the game
+[20:33:03] [Server thread/INFO] [voicechat]: [voicechat] Received secret request of Nyehtz (18)
+[20:33:03] [Server thread/INFO] [voicechat]: [voicechat] Sent secret to Nyehtz
+[20:33:06] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully authenticated player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
+[20:33:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Successfully validated connection of player 56c5e53b-7d52-3ed5-adcf-36baeabb5062
+[20:33:08] [VoiceChatPacketProcessingThread/INFO] [voicechat]: [voicechat] Player Nyehtz (56c5e53b-7d52-3ed5-adcf-36baeabb5062) successfully connected to voice chat
+[20:33:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:33:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> pongan elvator mod
+[20:34:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[20:34:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[20:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was slain by Assimilated Human
+[20:34:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[20:34:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Incomplete Form
+[20:35:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad has made the advancement [Suit Up]
+[20:56:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> me retiro
+[20:56:52] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Aproximidad lost connection: Disconnected
+[20:56:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad left the game
+[20:56:52] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Aproximidad
+[20:59:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> tienes pedernal?
+[20:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> tierra?
+[20:59:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> ty
+[20:59:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> tienes hierro?
+[20:59:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> aaaa
+[21:00:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> zi
+[21:02:09] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:02:09] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[21:02:09] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:02:12] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3116ms behind, skipping 62 tick(s)
+[21:02:14] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz moved too quickly! 56.87596895512185,-25.0,-33.43267587502304
+[21:04:33] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:05:27] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:05:27] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[21:05:27] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:06:31] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:06:39] [Server thread/INFO] [STDOUT]: [biomesoplenty.common.world.BiomeProviderBOPHell:<init>:32]: settings for hell world: 
+[21:06:39] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@59d34134)
+[21:06:39] [Server thread/INFO] [dsurround]: Creating NETHER weather generator for dimension [the_nether]
+[21:06:40] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz moved too quickly! 57.554820765059574,-25.0,-32.85817951913391
+[21:07:58] [Server thread/INFO] [FML]: Unloading dimension -1
+[21:08:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
+[21:08:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
+[21:08:46] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
+[21:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: There are 1/15 players online:
+[21:15:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM
+[21:16:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: You whisper to MMatiasM: oye wey hasta que hora vas a estar
+[21:16:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> ni idea we
+[21:16:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MMatiasM> creo q horita me salgo
+[21:16:41] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: MMatiasM lost connection: Disconnected
+[21:16:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM left the game
+[21:16:41] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client MMatiasM
+[21:17:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:17:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:17:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[21:17:26] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world'/overworld
+[21:17:26] [Server thread/INFO] [FML]: Unloading dimension 0
+[21:17:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[21:17:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[21:17:26] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
