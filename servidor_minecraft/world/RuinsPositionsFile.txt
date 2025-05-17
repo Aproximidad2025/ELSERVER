@@ -10,11 +10,13 @@
 # Empty lines and those prefixed by '#' are ignored by the parser. Don't save notes in here, file gets wiped upon flushing.
 #
 -334 79 159 -333 81 160 BuriedChest.tml
+-309 79 723 -304 86 732 OilPump.tml
 -281 69 532 -276 71 539 Melonfield.tml
 -261 82 85 -254 98 117 RotaryExcavator.tml
 -208 72 378 -197 82 390 Building5.tml
 -175 65 516 -153 77 568 UndergroundDungeon.tml
 -156 85 88 -148 93 99 MinersHut.tml
+-150 64 740 -140 78 750 Building6.tml
 -139 69 223 -119 102 249 AdvancedUndergroundHouse.tml
 -68 70 342 -53 117 353 WindTurbine.tml
 -47 67 57 -35 84 76 Airfield.tml
