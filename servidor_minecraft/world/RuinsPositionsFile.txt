@@ -23,6 +23,7 @@
 -47 66 -17 -40 101 -10 Tubes.tml
 -42 68 182 -31 87 193 Locator2.tml
 -42 69 439 5 94 452 GantryCrane.tml
+16 64 814 17 66 815 BuriedChest.tml
 17 68 349 22 75 360 OilPump1.tml
 24 69 258 25 71 259 BuriedChest.tml
 38 69 174 46 114 186 PhoneTower.tml
@@ -31,4 +32,5 @@
 118 63 -5 119 65 -4 BuriedChest.tml
 165 63 71 186 109 92 PowerLineNew.tml
 212 79 416 219 114 423 Tubes.tml
+284 64 615 295 83 622 AdvancedShelter.tml
 290 64 93 300 78 103 Building6.tml
