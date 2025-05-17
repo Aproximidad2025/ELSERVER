@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-05-17 03:51:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_button": {
     "criteria": {
       "has_planks": "2025-05-17 02:40:55 +0000"
@@ -849,6 +855,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "silverfish": "2025-05-17 03:52:19 +0000",
       "spider": "2025-05-17 02:57:32 +0000"
     },
     "done": false
