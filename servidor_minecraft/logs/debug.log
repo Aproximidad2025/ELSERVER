@@ -16627,3 +16627,93 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [02:40:58] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 55 times.
 
 [02:41:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: ThePortu26 has made the advancement [Acquire Hardware]
+[02:41:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:41:48] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 60 times.
+
+[02:41:48] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 60 times.
+
+[02:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ has made the advancement [Stone Age]
+[02:42:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Aproximidad: Set game difficulty to Hard]
+[02:42:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:42:38] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 65 times.
+
+[02:42:38] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 65 times.
+
+[02:43:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:28] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 70 times.
+
+[02:43:28] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 70 times.
+
+[02:43:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:43:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Stone Age]
+[02:44:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Getting an Upgrade]
+[02:44:18] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 75 times.
+
+[02:44:18] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 75 times.
+
+[02:44:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> chcicos
+[02:44:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:44:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> yaperidmos
+[02:44:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> chat clipen esto
+[02:44:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [21, 7] in dimension 0 (overworld) while populating chunk [22, 8], causing cascading worldgen lag.
+[02:44:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[02:45:07] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of Tenzuuwu: {disabled=false, disconnected=true, uuid=ff26c6ec-9dc4-38ef-b74c-001a5997230c, name=Tenzuuwu, group=null}
+[02:45:08] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 80 times.
+
+[02:45:08] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 80 times.
+
+[02:45:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:45:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ is bleeding...
+[02:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ starved to death
+[02:45:58] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 85 times.
+
+[02:45:58] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 85 times.
+
+[02:46:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz has made the advancement [Monster Hunter]
+[02:46:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:46:48] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 90 times.
+
+[02:46:48] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 90 times.
+
+[02:46:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:06] [Server thread/DEBUG] [voicechat]: [voicechat] Got state of Tyder_: {disabled=false, disconnected=true, uuid=d86f5639-0b67-36b8-a2dd-e5f24f706b36, name=Tyder_, group=null}
+[02:47:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:47:38] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 95 times.
+
+[02:47:38] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 95 times.
+
+[02:47:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> oe tysh ven
+[02:48:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> AYUDA
+[02:48:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> ?
+[02:48:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> me cai
+[02:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> uhmmmm
+[02:48:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> XD
+[02:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> la ayuda esta sobrevalorada
+[02:48:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu has made the advancement [Stone Age]
+[02:48:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:48:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> no c q es esto pero me cai hast a el fondo D:
+[02:48:28] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 100 times.
+
+[02:48:28] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 100 times.
+
+[02:48:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> jajaja
+[02:49:03] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:49:18] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 105 times.
+
+[02:49:18] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 105 times.
+
+[02:49:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> bro tyder
+[02:49:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tysh ya fuiste
+[02:49:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Nyehtz> dea
+[02:49:48] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:08] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 110 times.
+
+[02:50:08] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 110 times.
+
+[02:50:33] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:50:58] [Server thread/DEBUG] [FML]: The world 4aac55d2 (world) may have leaked: seen 115 times.
+
+[02:50:58] [Server thread/DEBUG] [FML]: The world 60ea7239 (world) may have leaked: seen 115 times.
+
+[02:51:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[02:51:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
