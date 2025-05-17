@@ -37,3 +37,11 @@
 212 79 416 219 114 423 Tubes.tml
 284 64 615 295 83 622 AdvancedShelter.tml
 290 64 93 300 78 103 Building6.tml
+412 64 165 413 66 166 BuriedChest.tml
+572 70 357 587 93 382 Lab.tml
+612 70 637 625 81 650 BlockHenge.tml
+643 59 477 654 73 488 DwarfBase.tml
+727 65 304 728 67 305 BuriedChest.tml
+778 65 533 787 72 538 OilPump.tml
+793 63 450 810 98 462 SmallFactory2.tml
+820 67 618 834 73 630 ThrownHouse1.tml

@@ -362,8 +362,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2025-05-17 03:38:00 +0000",
+      "beef": "2025-05-17 04:23:53 +0000",
       "porkchop": "2025-05-17 02:41:35 +0000",
-      "apple": "2025-05-17 02:57:02 +0000"
+      "apple": "2025-05-17 02:57:02 +0000",
+      "mutton": "2025-05-17 04:26:12 +0000"
     },
     "done": false
   },
@@ -923,6 +925,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-05-17 02:55:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_red_flower": "2025-05-17 04:20:15 +0000"
     },
     "done": true
   },
