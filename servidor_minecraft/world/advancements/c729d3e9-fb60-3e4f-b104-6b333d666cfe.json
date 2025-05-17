@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-05-17 02:19:12 +0000"
+    },
+    "done": true
+  },
   "nocubessrpsurvival:advparasitesurvivalroot": {
     "criteria": {
       "advparasitesurvivalroot": "2025-05-16 20:37:20 +0000"
