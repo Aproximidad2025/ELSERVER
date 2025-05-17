@@ -30,7 +30,9 @@
 38 69 174 46 114 186 PhoneTower.tml
 66 63 73 73 79 81 MicroHPP.tml
 99 68 296 105 75 302 UndergroundShelter.tml
+103 68 -116 126 106 -95 Locator.tml
 118 63 -5 119 65 -4 BuriedChest.tml
+160 69 -222 171 74 -213 ThrownHouse3.tml
 165 63 71 186 109 92 PowerLineNew.tml
 212 79 416 219 114 423 Tubes.tml
 284 64 615 295 83 622 AdvancedShelter.tml

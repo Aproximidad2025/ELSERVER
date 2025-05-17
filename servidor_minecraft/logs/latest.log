@@ -1067,3 +1067,48 @@ Zombie Awareness: Requires version 1.12.1-1.11.16 but mod is not found on client
 [04:01:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [04:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ is bleeding...
 [04:01:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ was slain by Tyder_
+[04:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ is bleeding...
+[04:02:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ was slain by Tyder_
+[04:02:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ is bleeding...
+[04:02:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ was slain by Assimilated Enderman
+[04:02:15] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [2, -14] in dimension 0 (overworld) while populating chunk [4, -12], causing cascading worldgen lag.
+[04:02:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
+[04:02:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Deviantive Form
+[04:02:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, -16] in dimension 0 (overworld) while populating chunk [-6, -15], causing cascading worldgen lag.
+[04:02:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, -16] in dimension 0 (overworld) while populating chunk [0, -15], causing cascading worldgen lag.
+[04:02:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, -16] in dimension 0 (overworld) while populating chunk [-1, -16], causing cascading worldgen lag.
+[04:02:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:25] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [0, -16] in dimension 0 (overworld) while populating chunk [0, -15], causing cascading worldgen lag.
+[04:02:25] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:35] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[04:02:36] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [0, -17] in dimension 0 (overworld) while populating chunk [-1, -17], causing cascading worldgen lag.
+[04:02:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-8, -18] in dimension 0 (overworld) while populating chunk [-7, -17], causing cascading worldgen lag.
+[04:02:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:02:45] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[04:04:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu is bleeding...
+[04:04:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu was slain by Tenzuuwu
+[04:04:31] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[04:04:32] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Tenzuuwu lost connection: Disconnected
+[04:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tenzuuwu left the game
+[04:04:32] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Tenzuuwu
+[04:05:47] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Nyehtz lost connection: Disconnected
+[04:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Nyehtz left the game
+[04:05:47] [Server thread/INFO] [voicechat]: [voicechat] Disconnecting client Nyehtz
+[04:07:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> tysh tiene cama?
+[04:07:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> o base?
+[04:07:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> o algo
+[04:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> BASE
+[04:07:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Aproximidad> :0
+[04:07:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> DE cueva XDXD
+[04:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ is bleeding...
+[04:08:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Tyder_> ....
+[04:08:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Tyder_ was slain by Zombie
+[04:09:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[04:10:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM is bleeding...
+[04:10:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MMatiasM was slain by Aproximidad
+[04:11:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad is bleeding...
+[04:11:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Aproximidad was shot by Skeleton
